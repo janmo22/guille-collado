@@ -1,0 +1,344 @@
+{
+  "package": "guille-collado",
+  "version": "1.0.1",
+  "provenance": "references/procedencia.md",
+  "not_included": [
+    "assets/fonts/SloopScriptOne.ttf",
+    "assets/fonts/Toledo-Serial-BoldItalic.ttf",
+    "assets/golden/dia1-entrega-v14.mp4",
+    "assets/music/",
+    "assets/sfx/"
+  ],
+  "files": [
+    {
+      "path": "SKILL.md",
+      "bytes": 5257,
+      "sha256": "06b717ccb0b942379e8e6e1376f4a507e059730ee06b55980dab1cd92bde6e34"
+    },
+    {
+      "path": "agents/openai.yaml",
+      "bytes": 298,
+      "sha256": "8c0ec3633645a02a267a4d9913163e0d4c64e2f93a2c1c47dce5625546638b4d"
+    },
+    {
+      "path": "assets/fonts/Anton-Regular.ttf",
+      "bytes": 170812,
+      "sha256": "a4ba3a92350ebb031da0cb47630ac49eb265082ca1bc0450442f4a83ab947cab"
+    },
+    {
+      "path": "assets/fonts/OFL-Anton.txt",
+      "bytes": 4484,
+      "sha256": "ee67e6ee22790b7929f1a3769ca2801d565c64b5a9096942c1adf5596de9c9e4"
+    },
+    {
+      "path": "assets/golden/approval.json",
+      "bytes": 729,
+      "sha256": "5d75aafbe9b51478ed1d4570c50b5cb1395962883cdd301e41dbf5e2453ad925"
+    },
+    {
+      "path": "assets/golden/audio-correccion.json",
+      "bytes": 496,
+      "sha256": "81b3a4eedcfc97176523a649d0abbc2bd5a033a83a40f5e8a796828e1e3ec709"
+    },
+    {
+      "path": "assets/golden/conservacion-aprobado.json",
+      "bytes": 567,
+      "sha256": "4fd51277f44bc93c179f5786c0d72dbe26bd17d5e674092e8d3287706985335a"
+    },
+    {
+      "path": "assets/golden/contacto-final.jpg",
+      "bytes": 255893,
+      "sha256": "9eae81b471ee440357294a5cb576f4242e5c53aa393f0ec7fa6e41db0f6b38d5"
+    },
+    {
+      "path": "assets/golden/cta-restaurado.jpg",
+      "bytes": 51262,
+      "sha256": "20c6a5e19ac4fac505515c349fefacc4883e875c5c69a01a6ba353b486074401"
+    },
+    {
+      "path": "assets/golden/dia1-aprobado.srt",
+      "bytes": 4433,
+      "sha256": "b979e5d71f1cd071deb2aa5b8e99186edd788db541463d35d65e60b3cdc1c224"
+    },
+    {
+      "path": "assets/golden/genial-contacto.jpg",
+      "bytes": 114981,
+      "sha256": "6477b5c42b332c7475a3b3066c32b7b8f074ec37a6c50107b63dfb8aadf0f7d5"
+    },
+    {
+      "path": "assets/golden/intro-patch-contacto.jpg",
+      "bytes": 204957,
+      "sha256": "7f89bcfeddbca5aa032466bd81353db25de169ed760cb3b2516b04495d114f25"
+    },
+    {
+      "path": "assets/golden/transicion-correccion.json",
+      "bytes": 914,
+      "sha256": "b218cb7089cca0efc9cf32b3231e6b7a0614453b31a1cc50262394dc5e1c0090"
+    },
+    {
+      "path": "assets/golden/transitions/genial-quad-end.jpg",
+      "bytes": 431694,
+      "sha256": "0959c3b779b0e9aa286de9a204ad688b2895798cc12a3823b368c5fdb0ff04f7"
+    },
+    {
+      "path": "assets/golden/transitions/genial-quad-generacion.json",
+      "bytes": 2936,
+      "sha256": "ec3d182b4f0030d10c9e9b864f21fe1e545f49265d8dc508d4c2bd6d575a7bbe"
+    },
+    {
+      "path": "assets/golden/transitions/genial-quad-seedance.mp4",
+      "bytes": 2688148,
+      "sha256": "efa81aa88ec5e1396e88e28d95483d5bf205f870ba65ff53abcf0c9d333b6554"
+    },
+    {
+      "path": "assets/golden/transitions/genial-quad-start.jpg",
+      "bytes": 454976,
+      "sha256": "b4e7bd8457a3f06c68d2d6fe4302deb0acdba63b77f7c7e3b44c1a0087bfc750"
+    },
+    {
+      "path": "assets/golden/transitions/inicio-end.jpg",
+      "bytes": 84373,
+      "sha256": "3bcbb523265b1ca584abd38191ab75606b28b3d1e45103290a2fa615b4aea715"
+    },
+    {
+      "path": "assets/golden/transitions/inicio-generacion.json",
+      "bytes": 3437,
+      "sha256": "932cc4f18190f66e71b02c01aa8b1029e992411b89c99b5bef829d795922981e"
+    },
+    {
+      "path": "assets/golden/transitions/inicio-patch-v14.mp4",
+      "bytes": 1588880,
+      "sha256": "ff621c7e134e8cb9b2153ec6f328aca3442716d00254802f2765d682c6d32132"
+    },
+    {
+      "path": "assets/golden/transitions/inicio-seedance.mp4",
+      "bytes": 2389323,
+      "sha256": "afb20f826c18c510071e4291a40d44643ff147367f1033c592f33cd2fbd5f423"
+    },
+    {
+      "path": "assets/golden/transitions/inicio-start.jpg",
+      "bytes": 290902,
+      "sha256": "f6a241707837c3e9a805c671a8180fd1d34b34455ee5ead28187c3483947604e"
+    },
+    {
+      "path": "assets/golden/verificacion-entrega.json",
+      "bytes": 919,
+      "sha256": "08a820533ab6657a18248d732ea98586d41f51f8aa3a01ad8d9c30cb9eb1fbff"
+    },
+    {
+      "path": "assets/origins.json",
+      "bytes": 1431,
+      "sha256": "acd6313dba57382b19250f22b62dabde7d81b4c0d579b8e4fc56cf3512d153e1"
+    },
+    {
+      "path": "assets/preset.json",
+      "bytes": 2808,
+      "sha256": "7e31ea0d00878a04c364609ccde191c3ebc87909000fb7ca43e8927b25320bcc"
+    },
+    {
+      "path": "assets/recipe/V12Scenes.tsx",
+      "bytes": 13867,
+      "sha256": "3d7734ce561e9fe79c92dd3cfc1ed7004e8e39dbe709de4e8b84bdc61a416c53"
+    },
+    {
+      "path": "assets/recipe/V12Transitions.tsx",
+      "bytes": 1630,
+      "sha256": "285226ed3b8f54b9604745e32bfd5023d0f3251f100a0fb33b43204cbd2107b4"
+    },
+    {
+      "path": "assets/recipe/VideoV12.tsx",
+      "bytes": 12076,
+      "sha256": "81140634b8de7d1d33183ee49b764f9974705ad556e23f2a3f7ff796ee532f1d"
+    },
+    {
+      "path": "assets/recipe/VideoV13.tsx",
+      "bytes": 11893,
+      "sha256": "48877887510f053f63059b7cc3941b62b295743f1cff808ecf65473de5dd8491"
+    },
+    {
+      "path": "assets/recipe/day1-build_graphics.py",
+      "bytes": 13970,
+      "sha256": "0bcaa228abbdfd16cd3577517c32c036dda3f3b413bbb50dc79e098af6db3be8"
+    },
+    {
+      "path": "assets/recipe/day1-masks_all.py",
+      "bytes": 2876,
+      "sha256": "a17a4823db0d41819e21c2d631863cb4e7b618111e5b9c4c709613c04158c009"
+    },
+    {
+      "path": "assets/recipe/day1-mix_audio.py",
+      "bytes": 8643,
+      "sha256": "0e18f901e6c17db392d4b317220acc547fb84808a8625fa88f59af4fbae90cb1"
+    },
+    {
+      "path": "assets/recipe/day1-precompose.py",
+      "bytes": 1448,
+      "sha256": "2bb596e2e7ce9abb802c69f9f19a4282fcbddc90ee51fb9baa73a56d0ca07ff0"
+    },
+    {
+      "path": "assets/recipe/day1-prepare_transitions.py",
+      "bytes": 1323,
+      "sha256": "1f6a560c60e7e0f3bf8175121ac440c5f5471e79da19ae8e81176a40c9357207"
+    },
+    {
+      "path": "assets/recipe/day1-sfx-events.json",
+      "bytes": 19374,
+      "sha256": "bc023ad45d1342b8f50d15d37a506a9792dd360f55a93724c4b1d89832025136"
+    },
+    {
+      "path": "assets/recipe/day1-v14-export_delivery.py",
+      "bytes": 1579,
+      "sha256": "bf5d6908fbd6fdbd44c749577437c9db15e4a76cdd56a65171bda0943062aa05"
+    },
+    {
+      "path": "assets/recipe/day1-v14-prepare_delivery.py",
+      "bytes": 8489,
+      "sha256": "4e62bad45963b7b9254fc18deb3465d36eb25b069f2a216de59fbe7d8300d7de"
+    },
+    {
+      "path": "assets/recipe/external-media.json",
+      "bytes": 8170,
+      "sha256": "5c005debda551c3ffa1b16bfccbbcc57d0e3141811c600eea6fe7f9944bd297c"
+    },
+    {
+      "path": "assets/recipe/v12-anchor-units.json",
+      "bytes": 713,
+      "sha256": "40dc98e573fc60372f76eb1baa106ef08c97ec03b923ab5b949143aebb64b0f2"
+    },
+    {
+      "path": "assets/recipe/v12-edit.json",
+      "bytes": 9784,
+      "sha256": "999af2ece0586a035e74d2239bac540f93944727572e7c72450fa5e18118e29c"
+    },
+    {
+      "path": "assets/recipe/v12-mask-frames.json",
+      "bytes": 6424,
+      "sha256": "c81f9e9f8d4c99eb17be595edda36a47c0961ae1b92100820e6bfbdb05b19b7c"
+    },
+    {
+      "path": "assets/recipe/v12-plan.json",
+      "bytes": 296158,
+      "sha256": "5b28f6fe92021e16890f087cfad0c673e1802a6cf66cdc1ccc1847ec34d2b93e"
+    },
+    {
+      "path": "assets/recipe/v12-precomposed.json",
+      "bytes": 5845,
+      "sha256": "17b8bbc54ed6c76c27d462c213e67b3a81b4f7a483e5da4493993bdde4ac5a78"
+    },
+    {
+      "path": "assets/recipe/v12-subtitles.json",
+      "bytes": 23977,
+      "sha256": "f0a3e2f18d203bfa26ab863521b4bc0d62ec4c02440881958092e7eaa5e7d959"
+    },
+    {
+      "path": "assets/recipe/v12-type-cache.json",
+      "bytes": 46216,
+      "sha256": "dead6148b2b37353c6720bc6085abebbd2009fbbe57bb5cd8076aeea94a0feac"
+    },
+    {
+      "path": "assets/recipe/v12-units.json",
+      "bytes": 2180,
+      "sha256": "c928309cd424b110c14ed22e2347fb4f6a85c6fcd2c804d3904bda07d5758f42"
+    },
+    {
+      "path": "assets/recipe/v13-plan.json",
+      "bytes": 297417,
+      "sha256": "f931728ca0ac6a56d304d595fd5e94744d74de45c5cae0700eba2f3c2c466e2e"
+    },
+    {
+      "path": "assets/runtime/GuilleKit.tsx",
+      "bytes": 5830,
+      "sha256": "05e7c1716b3f3dd0824d457b044e9a914168d1656f63fb8f4680857f080d0fc5"
+    },
+    {
+      "path": "assets/runtime/dependencies.json",
+      "bytes": 299,
+      "sha256": "435cf7f1b5d518e535681f24661a37813cadc96476f82dd7c2a49f85c19b2276"
+    },
+    {
+      "path": "assets/runtime/example-layout.json",
+      "bytes": 845,
+      "sha256": "1bd385732429d55e7c119aa3118c7bcf1b41a69fada82d9a6e9e361f8d858ab2"
+    },
+    {
+      "path": "assets/runtime/example-plan.json",
+      "bytes": 9910,
+      "sha256": "abfcb4697b84f48321ba29794ac38d63c77b65bd5f7029ab8ba4150ad02d7113"
+    },
+    {
+      "path": "references/direccion.md",
+      "bytes": 5619,
+      "sha256": "d9dc6555439cc2379ad072ffe44da422f63d8c83a645a15671ef6409e0213d0f"
+    },
+    {
+      "path": "references/montaje-limpio.md",
+      "bytes": 7950,
+      "sha256": "bc7ad2276138bbdf14ab4ffdb558bc7435a501d93660b896ce00595ba2eaf671"
+    },
+    {
+      "path": "references/montaje-sonido.md",
+      "bytes": 6321,
+      "sha256": "16bdf703d1aa4a08ac8d8ece02547de291f5f85f79f97de42629d6620c8154d4"
+    },
+    {
+      "path": "references/motion.md",
+      "bytes": 6066,
+      "sha256": "c71039b180aa6f3c8b9e97f47597a305fb97d470b0d464194695823fa02fe31b"
+    },
+    {
+      "path": "references/procedencia.md",
+      "bytes": 3740,
+      "sha256": "e97d84d874bad543148455d2624166d1f6f786cd7083a97a9b4ce992468e3632"
+    },
+    {
+      "path": "references/produccion.md",
+      "bytes": 5710,
+      "sha256": "ed0e7786e4a6f0010890629920ba47f9418a08e1aae5370ec9db039860d9751a"
+    },
+    {
+      "path": "references/validacion.json",
+      "bytes": 1686,
+      "sha256": "644239c28f2a1349e6251f607221e8ae4a9afe4c6178e04cf9b2875215e628b6"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 63,
+      "sha256": "6f13cad3d06616a1a731455e0af146556dc711b28065485faad4183678f28a98"
+    },
+    {
+      "path": "scripts/finish_lens.py",
+      "bytes": 3393,
+      "sha256": "b50d2b21ea1ded67d697fa62795498b92ffcbf2f9cae8ea4e011b3680ed75517"
+    },
+    {
+      "path": "scripts/guille_conform.py",
+      "bytes": 9031,
+      "sha256": "9f573b884101bedc7ba12072499b9bcd6596c168ed9bfa0deecdef07ec094333"
+    },
+    {
+      "path": "scripts/mix.py",
+      "bytes": 4942,
+      "sha256": "a9c2133db316f8bc40c2196747dd5f9bace2c2d136ac662884935a810570a0b4"
+    },
+    {
+      "path": "scripts/package.py",
+      "bytes": 3946,
+      "sha256": "e15bc05c092cc1f6cd1198235857f5be52f93b2bd1d16cf680613db9f6bf893b"
+    },
+    {
+      "path": "scripts/project.py",
+      "bytes": 3915,
+      "sha256": "ecc50a0805a00d91158b300b302edbbb80625c7a0acbb58ea7aa29103475cbaa"
+    },
+    {
+      "path": "scripts/shape_text.py",
+      "bytes": 4331,
+      "sha256": "071deaebf3afcb384cee55ced2ed20b8e753da32eefebfd7fa44d0a3528e816b"
+    },
+    {
+      "path": "scripts/verify.py",
+      "bytes": 2273,
+      "sha256": "d13eac1170fd5789beff1b0c65dcc71d62454f48921fb730aa884f67e4139bc2"
+    }
+  ]
+}

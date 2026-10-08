@@ -1,0 +1,6 @@
+interface:
+  display_name: "Guille Collado · Jan"
+  short_description: "Brutos a vídeo con el acabado aprobado del Día 1"
+  default_prompt: "Usa $guille-collado para editar estos brutos con el acabado aprobado del Día 1 y entregar el vídeo revisado."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,15 @@
+{
+  "sfx/whoosh-soft.mp3": "negocios/contenido/remotion-studio/public/sfx/swoosh/whoosh-soft.mp3",
+  "sfx/click-soft-tap.mp3": "negocios/contenido/remotion-studio/public/sfx/clicks/click-soft-tap.mp3",
+  "sfx/pop-clean.mp3": "negocios/contenido/remotion-studio/public/sfx/pop/pop-clean.mp3",
+  "sfx/pop-B.wav": "negocios/contenido/proyectos-video/2026-09-16-dia1-guille-collado/06-audio/sfx-referencia/pop-B.wav",
+  "sfx/shimmer-glow.mp3": "negocios/contenido/remotion-studio/public/sfx/shimmer/shimmer-glow.mp3",
+  "sfx/mouse-click.mp3": "negocios/contenido/remotion-studio/public/sfx/clicks/mouse-click.mp3",
+  "sfx/card-flip.mp3": "negocios/contenido/remotion-studio/public/sfx/epi/card-flip.mp3",
+  "sfx/finger-snap.mp3": "negocios/contenido/remotion-studio/public/sfx/snap/finger-snap.mp3",
+  "sfx/boom-deep.mp3": "negocios/contenido/remotion-studio/public/sfx/impact/boom-deep.mp3",
+  "fonts/Anton-Regular.ttf": "Archivo local de Jan; copia de remotion-studio/public-dia1-v12/fonts/Anton-Regular.ttf",
+  "fonts/SloopScriptOne.ttf": "Archivo local de Jan; copia de remotion-studio/public-dia1-v12/fonts/SloopScriptOne.ttf",
+  "fonts/Toledo-Serial-BoldItalic.ttf": "Archivo local de Jan; copia de remotion-studio/public-dia1-v12/fonts/Toledo-Serial-BoldItalic.ttf",
+  "music/without-me-inst.flac": "Transcodificación lossless de negocios/contenido/proyectos-video/2026-09-16-dia1-guille-collado/06-audio/without-me-inst.wav"
+}

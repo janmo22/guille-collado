@@ -1,0 +1,962 @@
+[
+  {
+    "file": "sfx/whoosh-soft.mp3",
+    "at": 3.2,
+    "peak_dbfs": -24,
+    "purpose": "Movimiento físico de cámara",
+    "pre": 0.035,
+    "post": 0.16
+  },
+  {
+    "file": "sfx/click-soft-tap.mp3",
+    "at": 3.4,
+    "peak_dbfs": -17.5,
+    "purpose": "Texto Efectivamente",
+    "pre": 0.008,
+    "post": 0.07
+  },
+  {
+    "file": "sfx/pop-clean.mp3",
+    "at": 4.4,
+    "peak_dbfs": -23,
+    "purpose": "Vídeo de Guille",
+    "pre": 0.012,
+    "post": 0.09
+  },
+  {
+    "file": "sfx/click-soft-tap.mp3",
+    "at": 6.9,
+    "peak_dbfs": -17.5,
+    "purpose": "Texto DÍA",
+    "pre": 0.008,
+    "post": 0.07
+  },
+  {
+    "file": "sfx/pop-B.wav",
+    "at": 7.033333333333333,
+    "peak_dbfs": -14.5,
+    "purpose": "Keyword 1",
+    "pre": 0.012,
+    "post": 0.095
+  },
+  {
+    "file": "sfx/click-soft-tap.mp3",
+    "at": 7.333333333333333,
+    "peak_dbfs": -17.5,
+    "purpose": "Texto haciendo",
+    "pre": 0.008,
+    "post": 0.07
+  },
+  {
+    "file": "sfx/click-soft-tap.mp3",
+    "at": 7.733333333333333,
+    "peak_dbfs": -17.5,
+    "purpose": "Texto que",
+    "pre": 0.008,
+    "post": 0.07
+  },
+  {
+    "file": "sfx/pop-B.wav",
+    "at": 8.0,
+    "peak_dbfs": -14.5,
+    "purpose": "Keyword CLAUDE",
+    "pre": 0.012,
+    "post": 0.095
+  },
+  {
+    "file": "sfx/pop-clean.mp3",
+    "at": 8.9,
+    "peak_dbfs": -22,
+    "purpose": "Perfil incógnito",
+    "pre": 0.01,
+    "post": 0.07
+  },
+  {
+    "file": "sfx/pop-clean.mp3",
+    "at": 8.966666666666667,
+    "peak_dbfs": -22,
+    "purpose": "Perfil incógnito",
+    "pre": 0.01,
+    "post": 0.07
+  },
+  {
+    "file": "sfx/pop-clean.mp3",
+    "at": 9.033333333333333,
+    "peak_dbfs": -22,
+    "purpose": "Perfil incógnito",
+    "pre": 0.01,
+    "post": 0.07
+  },
+  {
+    "file": "sfx/pop-clean.mp3",
+    "at": 9.1,
+    "peak_dbfs": -22,
+    "purpose": "Perfil incógnito",
+    "pre": 0.01,
+    "post": 0.07
+  },
+  {
+    "file": "sfx/pop-clean.mp3",
+    "at": 9.166666666666666,
+    "peak_dbfs": -22,
+    "purpose": "Perfil incógnito",
+    "pre": 0.01,
+    "post": 0.07
+  },
+  {
+    "file": "sfx/shimmer-glow.mp3",
+    "at": 9.733333333333333,
+    "peak_dbfs": -21,
+    "purpose": "Guille se revela y brilla",
+    "pre": 0.015,
+    "post": 0.23
+  },
+  {
+    "file": "sfx/click-soft-tap.mp3",
+    "at": 11.366666666666667,
+    "peak_dbfs": -17.5,
+    "purpose": "Texto He",
+    "pre": 0.008,
+    "post": 0.07
+  },
+  {
+    "file": "sfx/pop-B.wav",
+    "at": 11.433333333333334,
+    "peak_dbfs": -14.5,
+    "purpose": "Keyword ENTRENADO",
+    "pre": 0.012,
+    "post": 0.095
+  },
+  {
+    "file": "sfx/click-soft-tap.mp3",
+    "at": 11.766666666666667,
+    "peak_dbfs": -17.5,
+    "purpose": "Texto a la",
+    "pre": 0.008,
+    "post": 0.07
+  },
+  {
+    "file": "sfx/pop-clean.mp3",
+    "at": 15.3,
+    "peak_dbfs": -23,
+    "purpose": "Solo mis brutos",
+    "pre": 0.012,
+    "post": 0.09
+  },
+  {
+    "file": "sfx/mouse-click.mp3",
+    "at": 16.033333333333335,
+    "peak_dbfs": -21,
+    "purpose": "Agarra cuatro brutos",
+    "pre": 0.025,
+    "post": 0.14
+  },
+  {
+    "file": "sfx/whoosh-soft.mp3",
+    "at": 16.933333333333334,
+    "peak_dbfs": -29,
+    "purpose": "Arrastra archivos",
+    "pre": 0.025,
+    "post": 0.14
+  },
+  {
+    "file": "sfx/pop-clean.mp3",
+    "at": 17.7,
+    "peak_dbfs": -19,
+    "purpose": "Suelta en Claude",
+    "pre": 0.025,
+    "post": 0.14
+  },
+  {
+    "file": "sfx/mouse-click.mp3",
+    "at": 18.766666666666666,
+    "peak_dbfs": -19,
+    "purpose": "Pulsa enviar",
+    "pre": 0.008,
+    "post": 0.07
+  },
+  {
+    "file": "sfx/pop-clean.mp3",
+    "at": 18.966666666666665,
+    "peak_dbfs": -22,
+    "purpose": "Archivos enviados",
+    "pre": 0.01,
+    "post": 0.085
+  },
+  {
+    "file": "sfx/click-soft-tap.mp3",
+    "at": 19.3,
+    "peak_dbfs": -17.5,
+    "purpose": "Texto Sí,",
+    "pre": 0.008,
+    "post": 0.07
+  },
+  {
+    "file": "sfx/pop-B.wav",
+    "at": 19.9,
+    "peak_dbfs": -14.5,
+    "purpose": "Keyword ENTERA",
+    "pre": 0.012,
+    "post": 0.095
+  },
+  {
+    "file": "sfx/pop-B.wav",
+    "at": 22.533333333333335,
+    "peak_dbfs": -14.5,
+    "purpose": "Keyword CAMBIOS",
+    "pre": 0.012,
+    "post": 0.095
+  },
+  {
+    "file": "sfx/click-soft-tap.mp3",
+    "at": 22.8,
+    "peak_dbfs": -17.5,
+    "purpose": "Texto de",
+    "pre": 0.008,
+    "post": 0.07
+  },
+  {
+    "file": "sfx/click-soft-tap.mp3",
+    "at": 22.966666666666665,
+    "peak_dbfs": -17.5,
+    "purpose": "Texto PLANO",
+    "pre": 0.008,
+    "post": 0.07
+  },
+  {
+    "file": "sfx/pop-clean.mp3",
+    "at": 25.866666666666667,
+    "peak_dbfs": -18,
+    "purpose": "SÍ O SÍ frente a Jan",
+    "pre": 0.012,
+    "post": 0.11
+  },
+  {
+    "file": "sfx/pop-B.wav",
+    "at": 26.133333333333333,
+    "peak_dbfs": -14.5,
+    "purpose": "Keyword SÍ",
+    "pre": 0.012,
+    "post": 0.095
+  },
+  {
+    "file": "sfx/click-soft-tap.mp3",
+    "at": 26.433333333333334,
+    "peak_dbfs": -17.5,
+    "purpose": "Texto o",
+    "pre": 0.008,
+    "post": 0.07
+  },
+  {
+    "file": "sfx/pop-clean.mp3",
+    "at": 26.433333333333334,
+    "peak_dbfs": -18,
+    "purpose": "SÍ O SÍ frente a Jan",
+    "pre": 0.012,
+    "post": 0.11
+  },
+  {
+    "file": "sfx/pop-B.wav",
+    "at": 26.566666666666666,
+    "peak_dbfs": -14.5,
+    "purpose": "Keyword SÍ",
+    "pre": 0.012,
+    "post": 0.095
+  },
+  {
+    "file": "sfx/pop-clean.mp3",
+    "at": 27.6,
+    "peak_dbfs": -23,
+    "purpose": "Cuatro posiciones",
+    "pre": 0.012,
+    "post": 0.09
+  },
+  {
+    "file": "sfx/card-flip.mp3",
+    "at": 27.6,
+    "peak_dbfs": -23,
+    "purpose": "Entra posición de cámara",
+    "pre": 0.02,
+    "post": 0.12
+  },
+  {
+    "file": "sfx/card-flip.mp3",
+    "at": 27.766666666666666,
+    "peak_dbfs": -23,
+    "purpose": "Entra posición de cámara",
+    "pre": 0.02,
+    "post": 0.12
+  },
+  {
+    "file": "sfx/card-flip.mp3",
+    "at": 27.933333333333334,
+    "peak_dbfs": -23,
+    "purpose": "Entra posición de cámara",
+    "pre": 0.02,
+    "post": 0.12
+  },
+  {
+    "file": "sfx/card-flip.mp3",
+    "at": 28.1,
+    "peak_dbfs": -23,
+    "purpose": "Entra posición de cámara",
+    "pre": 0.02,
+    "post": 0.12
+  },
+  {
+    "file": "sfx/whoosh-soft.mp3",
+    "at": 31.766666666666666,
+    "peak_dbfs": -24,
+    "purpose": "Movimiento físico de cámara",
+    "pre": 0.035,
+    "post": 0.16
+  },
+  {
+    "file": "sfx/click-soft-tap.mp3",
+    "at": 32.43333333333333,
+    "peak_dbfs": -17.5,
+    "purpose": "Texto ¿y",
+    "pre": 0.008,
+    "post": 0.07
+  },
+  {
+    "file": "sfx/click-soft-tap.mp3",
+    "at": 32.7,
+    "peak_dbfs": -17.5,
+    "purpose": "Texto ahora",
+    "pre": 0.008,
+    "post": 0.07
+  },
+  {
+    "file": "sfx/pop-B.wav",
+    "at": 32.9,
+    "peak_dbfs": -14.5,
+    "purpose": "Keyword QUÉ?",
+    "pre": 0.012,
+    "post": 0.095
+  },
+  {
+    "file": "sfx/whoosh-soft.mp3",
+    "at": 33.2,
+    "peak_dbfs": -24,
+    "purpose": "Movimiento físico de cámara",
+    "pre": 0.035,
+    "post": 0.16
+  },
+  {
+    "file": "sfx/click-soft-tap.mp3",
+    "at": 33.96666666666667,
+    "peak_dbfs": -17.5,
+    "purpose": "Texto Cómo",
+    "pre": 0.008,
+    "post": 0.07
+  },
+  {
+    "file": "sfx/click-soft-tap.mp3",
+    "at": 34.43333333333333,
+    "peak_dbfs": -17.5,
+    "purpose": "Texto pone",
+    "pre": 0.008,
+    "post": 0.07
+  },
+  {
+    "file": "sfx/click-soft-tap.mp3",
+    "at": 34.666666666666664,
+    "peak_dbfs": -17.5,
+    "purpose": "Texto las",
+    "pre": 0.008,
+    "post": 0.07
+  },
+  {
+    "file": "sfx/pop-B.wav",
+    "at": 34.833333333333336,
+    "peak_dbfs": -14.5,
+    "purpose": "Keyword PALABRAS",
+    "pre": 0.012,
+    "post": 0.095
+  },
+  {
+    "file": "sfx/pop-B.wav",
+    "at": 35.166666666666664,
+    "peak_dbfs": -14.5,
+    "purpose": "Keyword CLAVE",
+    "pre": 0.012,
+    "post": 0.095
+  },
+  {
+    "file": "sfx/click-soft-tap.mp3",
+    "at": 36.166666666666664,
+    "peak_dbfs": -17.5,
+    "purpose": "Texto detrás",
+    "pre": 0.008,
+    "post": 0.07
+  },
+  {
+    "file": "sfx/click-soft-tap.mp3",
+    "at": 36.5,
+    "peak_dbfs": -17.5,
+    "purpose": "Texto SUYA",
+    "pre": 0.008,
+    "post": 0.07
+  },
+  {
+    "file": "sfx/pop-B.wav",
+    "at": 37.56666666666667,
+    "peak_dbfs": -14.5,
+    "purpose": "Keyword EFECTOS",
+    "pre": 0.012,
+    "post": 0.095
+  },
+  {
+    "file": "sfx/click-soft-tap.mp3",
+    "at": 37.86666666666667,
+    "peak_dbfs": -17.5,
+    "purpose": "Texto de",
+    "pre": 0.008,
+    "post": 0.07
+  },
+  {
+    "file": "sfx/click-soft-tap.mp3",
+    "at": 38.0,
+    "peak_dbfs": -17.5,
+    "purpose": "Texto SONIDO",
+    "pre": 0.008,
+    "post": 0.07
+  },
+  {
+    "file": "sfx/click-soft-tap.mp3",
+    "at": 38.86666666666667,
+    "peak_dbfs": -17.5,
+    "purpose": "Texto cambios de",
+    "pre": 0.008,
+    "post": 0.07
+  },
+  {
+    "file": "sfx/finger-snap.mp3",
+    "at": 39.0,
+    "peak_dbfs": -18,
+    "purpose": "Cambio de ritmo visible",
+    "pre": 0.025,
+    "post": 0.14
+  },
+  {
+    "file": "sfx/pop-B.wav",
+    "at": 39.06666666666667,
+    "peak_dbfs": -14.5,
+    "purpose": "Keyword RITMO",
+    "pre": 0.012,
+    "post": 0.095
+  },
+  {
+    "file": "sfx/click-soft-tap.mp3",
+    "at": 40.2,
+    "peak_dbfs": -17.5,
+    "purpose": "Texto el estilo de",
+    "pre": 0.008,
+    "post": 0.07
+  },
+  {
+    "file": "sfx/click-soft-tap.mp3",
+    "at": 40.266666666666666,
+    "peak_dbfs": -17.5,
+    "purpose": "Texto MÚSICA",
+    "pre": 0.008,
+    "post": 0.07
+  },
+  {
+    "file": "sfx/click-soft-tap.mp3",
+    "at": 42.06666666666667,
+    "peak_dbfs": -17.5,
+    "purpose": "Texto Todo",
+    "pre": 0.008,
+    "post": 0.07
+  },
+  {
+    "file": "sfx/pop-B.wav",
+    "at": 42.8,
+    "peak_dbfs": -14.5,
+    "purpose": "Keyword COORDINADO",
+    "pre": 0.012,
+    "post": 0.095
+  },
+  {
+    "file": "sfx/click-soft-tap.mp3",
+    "at": 44.5,
+    "peak_dbfs": -17.5,
+    "purpose": "Texto ¿y",
+    "pre": 0.008,
+    "post": 0.07
+  },
+  {
+    "file": "sfx/click-soft-tap.mp3",
+    "at": 45.03333333333333,
+    "peak_dbfs": -17.5,
+    "purpose": "Texto las",
+    "pre": 0.008,
+    "post": 0.07
+  },
+  {
+    "file": "sfx/whoosh-soft.mp3",
+    "at": 45.166666666666664,
+    "peak_dbfs": -26,
+    "purpose": "Mano sobre lente",
+    "pre": 0.045,
+    "post": 0.12
+  },
+  {
+    "file": "sfx/pop-B.wav",
+    "at": 45.166666666666664,
+    "peak_dbfs": -14.5,
+    "purpose": "Keyword TRANSICIONES?",
+    "pre": 0.012,
+    "post": 0.095
+  },
+  {
+    "file": "sfx/card-flip.mp3",
+    "at": 45.53333333333333,
+    "peak_dbfs": -20,
+    "purpose": "Mano tapa TRANSICIONES",
+    "pre": 0.035,
+    "post": 0.22
+  },
+  {
+    "file": "sfx/click-soft-tap.mp3",
+    "at": 46.43333333333333,
+    "peak_dbfs": -17.5,
+    "purpose": "Texto Muy",
+    "pre": 0.008,
+    "post": 0.07
+  },
+  {
+    "file": "sfx/pop-B.wav",
+    "at": 46.86666666666667,
+    "peak_dbfs": -14.5,
+    "purpose": "Keyword FÁCIL",
+    "pre": 0.012,
+    "post": 0.095
+  },
+  {
+    "file": "sfx/pop-clean.mp3",
+    "at": 49.56666666666667,
+    "peak_dbfs": -23,
+    "purpose": "Un plano entre los dos",
+    "pre": 0.012,
+    "post": 0.09
+  },
+  {
+    "file": "sfx/whoosh-soft.mp3",
+    "at": 52.13333333333333,
+    "peak_dbfs": -27,
+    "purpose": "Tarjeta a plano vivo",
+    "pre": 0.025,
+    "post": 0.13
+  },
+  {
+    "file": "sfx/click-soft-tap.mp3",
+    "at": 54.9,
+    "peak_dbfs": -17.5,
+    "purpose": "Texto SUPER",
+    "pre": 0.008,
+    "post": 0.07
+  },
+  {
+    "file": "sfx/pop-B.wav",
+    "at": 55.266666666666666,
+    "peak_dbfs": -14.5,
+    "purpose": "Keyword CLEAN",
+    "pre": 0.012,
+    "post": 0.095
+  },
+  {
+    "file": "sfx/shimmer-glow.mp3",
+    "at": 55.4,
+    "peak_dbfs": -19,
+    "purpose": "Destello limpio prolongado",
+    "pre": 0.025,
+    "post": 0.9
+  },
+  {
+    "file": "sfx/whoosh-soft.mp3",
+    "at": 55.63333333333333,
+    "peak_dbfs": -24,
+    "purpose": "Movimiento físico de cámara",
+    "pre": 0.035,
+    "post": 0.16
+  },
+  {
+    "file": "sfx/click-soft-tap.mp3",
+    "at": 56.6,
+    "peak_dbfs": -17.5,
+    "purpose": "Texto que sepa",
+    "pre": 0.008,
+    "post": 0.07
+  },
+  {
+    "file": "sfx/pop-B.wav",
+    "at": 57.13333333333333,
+    "peak_dbfs": -14.5,
+    "purpose": "Keyword HACER",
+    "pre": 0.012,
+    "post": 0.095
+  },
+  {
+    "file": "sfx/click-soft-tap.mp3",
+    "at": 57.4,
+    "peak_dbfs": -17.5,
+    "purpose": "Texto las cosas",
+    "pre": 0.008,
+    "post": 0.07
+  },
+  {
+    "file": "sfx/click-soft-tap.mp3",
+    "at": 58.3,
+    "peak_dbfs": -17.5,
+    "purpose": "Texto SI LUEGO",
+    "pre": 0.008,
+    "post": 0.07
+  },
+  {
+    "file": "sfx/click-soft-tap.mp3",
+    "at": 58.766666666666666,
+    "peak_dbfs": -17.5,
+    "purpose": "Texto No",
+    "pre": 0.008,
+    "post": 0.07
+  },
+  {
+    "file": "sfx/click-soft-tap.mp3",
+    "at": 59.03333333333333,
+    "peak_dbfs": -17.5,
+    "purpose": "Texto hay",
+    "pre": 0.008,
+    "post": 0.07
+  },
+  {
+    "file": "sfx/pop-B.wav",
+    "at": 59.43333333333333,
+    "peak_dbfs": -14.5,
+    "purpose": "Keyword CRITERIO",
+    "pre": 0.012,
+    "post": 0.095
+  },
+  {
+    "file": "sfx/pop-clean.mp3",
+    "at": 60.03333333333333,
+    "peak_dbfs": -23,
+    "purpose": "Perfil de Guille",
+    "pre": 0.012,
+    "post": 0.09
+  },
+  {
+    "file": "sfx/whoosh-soft.mp3",
+    "at": 61.8,
+    "peak_dbfs": -29,
+    "purpose": "Desplazamiento del feed",
+    "pre": 0.02,
+    "post": 0.11
+  },
+  {
+    "file": "sfx/whoosh-soft.mp3",
+    "at": 63.6,
+    "peak_dbfs": -29,
+    "purpose": "Desplazamiento del feed",
+    "pre": 0.02,
+    "post": 0.11
+  },
+  {
+    "file": "sfx/whoosh-soft.mp3",
+    "at": 65.16666666666667,
+    "peak_dbfs": -29,
+    "purpose": "Desplazamiento del feed",
+    "pre": 0.02,
+    "post": 0.11
+  },
+  {
+    "file": "sfx/whoosh-soft.mp3",
+    "at": 66.66666666666667,
+    "peak_dbfs": -24,
+    "purpose": "Movimiento físico de cámara",
+    "pre": 0.035,
+    "post": 0.16
+  },
+  {
+    "file": "sfx/click-soft-tap.mp3",
+    "at": 67.36666666666666,
+    "peak_dbfs": -17.5,
+    "purpose": "Texto Le",
+    "pre": 0.008,
+    "post": 0.07
+  },
+  {
+    "file": "sfx/click-soft-tap.mp3",
+    "at": 67.56666666666666,
+    "peak_dbfs": -17.5,
+    "purpose": "Texto enseñé",
+    "pre": 0.008,
+    "post": 0.07
+  },
+  {
+    "file": "sfx/click-soft-tap.mp3",
+    "at": 67.93333333333334,
+    "peak_dbfs": -17.5,
+    "purpose": "Texto a",
+    "pre": 0.008,
+    "post": 0.07
+  },
+  {
+    "file": "sfx/pop-B.wav",
+    "at": 68.1,
+    "peak_dbfs": -14.5,
+    "purpose": "Keyword DIRIGIR",
+    "pre": 0.012,
+    "post": 0.095
+  },
+  {
+    "file": "sfx/boom-deep.mp3",
+    "at": 69.83333333333333,
+    "peak_dbfs": -11,
+    "purpose": "BOOM: cuerpo grave sincronizado",
+    "pre": 0.012,
+    "post": 0.7
+  },
+  {
+    "file": "sfx/pop-clean.mp3",
+    "at": 70.36666666666666,
+    "peak_dbfs": -25,
+    "purpose": "Sticker 1",
+    "pre": 0.01,
+    "post": 0.07
+  },
+  {
+    "file": "sfx/pop-clean.mp3",
+    "at": 70.46666666666667,
+    "peak_dbfs": -25,
+    "purpose": "Sticker 2",
+    "pre": 0.01,
+    "post": 0.07
+  },
+  {
+    "file": "sfx/pop-clean.mp3",
+    "at": 70.56666666666666,
+    "peak_dbfs": -25,
+    "purpose": "Sticker 3",
+    "pre": 0.01,
+    "post": 0.07
+  },
+  {
+    "file": "sfx/pop-clean.mp3",
+    "at": 70.66666666666667,
+    "peak_dbfs": -25,
+    "purpose": "Sticker 4",
+    "pre": 0.01,
+    "post": 0.07
+  },
+  {
+    "file": "sfx/card-flip.mp3",
+    "at": 72.06666666666666,
+    "peak_dbfs": -24,
+    "purpose": "Sticker entra en carpeta",
+    "pre": 0.035,
+    "post": 0.13
+  },
+  {
+    "file": "sfx/card-flip.mp3",
+    "at": 72.33333333333333,
+    "peak_dbfs": -24,
+    "purpose": "Sticker entra en carpeta",
+    "pre": 0.035,
+    "post": 0.13
+  },
+  {
+    "file": "sfx/card-flip.mp3",
+    "at": 72.6,
+    "peak_dbfs": -24,
+    "purpose": "Sticker entra en carpeta",
+    "pre": 0.035,
+    "post": 0.13
+  },
+  {
+    "file": "sfx/card-flip.mp3",
+    "at": 72.86666666666666,
+    "peak_dbfs": -24,
+    "purpose": "Sticker entra en carpeta",
+    "pre": 0.035,
+    "post": 0.13
+  },
+  {
+    "file": "sfx/click-soft-tap.mp3",
+    "at": 73.03333333333333,
+    "peak_dbfs": -19,
+    "purpose": "Cierra carpeta",
+    "pre": 0.01,
+    "post": 0.15
+  },
+  {
+    "file": "sfx/pop-clean.mp3",
+    "at": 73.36666666666666,
+    "peak_dbfs": -23,
+    "purpose": "Claude lo edita",
+    "pre": 0.012,
+    "post": 0.09
+  },
+  {
+    "file": "sfx/mouse-click.mp3",
+    "at": 73.56666666666666,
+    "peak_dbfs": -21,
+    "purpose": "Agarra cuatro brutos",
+    "pre": 0.025,
+    "post": 0.14
+  },
+  {
+    "file": "sfx/whoosh-soft.mp3",
+    "at": 74.46666666666667,
+    "peak_dbfs": -29,
+    "purpose": "Arrastra archivos",
+    "pre": 0.025,
+    "post": 0.14
+  },
+  {
+    "file": "sfx/pop-clean.mp3",
+    "at": 75.23333333333333,
+    "peak_dbfs": -19,
+    "purpose": "Suelta en Claude",
+    "pre": 0.025,
+    "post": 0.14
+  },
+  {
+    "file": "sfx/mouse-click.mp3",
+    "at": 76.03333333333333,
+    "peak_dbfs": -19,
+    "purpose": "Pulsa enviar",
+    "pre": 0.008,
+    "post": 0.07
+  },
+  {
+    "file": "sfx/pop-clean.mp3",
+    "at": 76.23333333333333,
+    "peak_dbfs": -22,
+    "purpose": "Archivos enviados",
+    "pre": 0.01,
+    "post": 0.085
+  },
+  {
+    "file": "sfx/pop-clean.mp3",
+    "at": 76.43333333333334,
+    "peak_dbfs": -23,
+    "purpose": "Claude: Aquí lo tienes + vídeo",
+    "pre": 0.025,
+    "post": 0.18
+  },
+  {
+    "file": "sfx/click-soft-tap.mp3",
+    "at": 77.93333333333334,
+    "peak_dbfs": -17.5,
+    "purpose": "Texto en",
+    "pre": 0.008,
+    "post": 0.07
+  },
+  {
+    "file": "sfx/click-soft-tap.mp3",
+    "at": 78.06666666666666,
+    "peak_dbfs": -17.5,
+    "purpose": "Texto cuestión",
+    "pre": 0.008,
+    "post": 0.07
+  },
+  {
+    "file": "sfx/click-soft-tap.mp3",
+    "at": 78.43333333333334,
+    "peak_dbfs": -17.5,
+    "purpose": "Texto de",
+    "pre": 0.008,
+    "post": 0.07
+  },
+  {
+    "file": "sfx/pop-B.wav",
+    "at": 78.63333333333334,
+    "peak_dbfs": -14.5,
+    "purpose": "Keyword MINUTOS",
+    "pre": 0.012,
+    "post": 0.095
+  },
+  {
+    "file": "sfx/click-soft-tap.mp3",
+    "at": 79.5,
+    "peak_dbfs": -17.5,
+    "purpose": "Texto si",
+    "pre": 0.008,
+    "post": 0.07
+  },
+  {
+    "file": "sfx/click-soft-tap.mp3",
+    "at": 79.6,
+    "peak_dbfs": -17.5,
+    "purpose": "Texto comentas",
+    "pre": 0.008,
+    "post": 0.07
+  },
+  {
+    "file": "sfx/pop-B.wav",
+    "at": 79.93333333333334,
+    "peak_dbfs": -14.5,
+    "purpose": "Keyword SKILL",
+    "pre": 0.012,
+    "post": 0.095
+  },
+  {
+    "file": "sfx/click-soft-tap.mp3",
+    "at": 80.46666666666667,
+    "peak_dbfs": -17.5,
+    "purpose": "Texto te",
+    "pre": 0.008,
+    "post": 0.07
+  },
+  {
+    "file": "sfx/click-soft-tap.mp3",
+    "at": 80.63333333333334,
+    "peak_dbfs": -17.5,
+    "purpose": "Texto MANDO",
+    "pre": 0.008,
+    "post": 0.07
+  },
+  {
+    "file": "sfx/click-soft-tap.mp3",
+    "at": 80.83333333333333,
+    "peak_dbfs": -17.5,
+    "purpose": "Texto la",
+    "pre": 0.008,
+    "post": 0.07
+  },
+  {
+    "file": "sfx/click-soft-tap.mp3",
+    "at": 81.6,
+    "peak_dbfs": -17.5,
+    "purpose": "Texto y cómo",
+    "pre": 0.008,
+    "post": 0.07
+  },
+  {
+    "file": "sfx/click-soft-tap.mp3",
+    "at": 82.2,
+    "peak_dbfs": -17.5,
+    "purpose": "Texto INSTALARLA",
+    "pre": 0.008,
+    "post": 0.07
+  },
+  {
+    "file": "sfx/click-soft-tap.mp3",
+    "at": 82.83333333333333,
+    "peak_dbfs": -17.5,
+    "purpose": "Texto Porque",
+    "pre": 0.008,
+    "post": 0.07
+  },
+  {
+    "file": "sfx/pop-B.wav",
+    "at": 83.33333333333333,
+    "peak_dbfs": -14.5,
+    "purpose": "Keyword SÍ.",
+    "pre": 0.012,
+    "post": 0.095
+  }
+]

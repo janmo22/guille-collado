@@ -1,0 +1,21 @@
+{
+  "skill_frontmatter": "passed",
+  "editor_jan_frontmatter": "passed",
+  "markdown_links": "all local targets exist",
+  "typescript": "GuilleKit and VideoV13 passed",
+  "cold_workspace": "fresh single-input project created outside original workspace",
+  "shaping": "new word ÉXITO rendered; changing onsets preserves geometry; out-of-block onset rejected",
+  "runtime": "two1080p frames rendered with packaged fonts/materials/subtitles",
+  "mix": "new2s voice/music/two-event cue sheet mixed; stems/master produced",
+  "lens": "portable explicit edit/plan parameters;2s/60frames processed",
+  "video_verifier": "complete decode, matching durations, loudness/TP without review flags in test",
+  "v13": "2548frames; exact original AAC packets; only CTA image window substituted",
+  "limits": "No new full unrelated video was produced; shot selection, masks and art direction still require the agent. This is a tested agent workflow and reusable kit, not an unattended auto-editor.",
+  "v14": "2548 frames/84.933333s; complete decode; no black intervals; -14.16 LUFS-I/-1.09 dBTP; PCM identical outside local word mastering window; sampled video unchanged outside transition within reencoding error.",
+  "v14_visual_review": "22 transition frames and adjacent actual final frames inspected; assisted audio/context review found complete natural word with no obvious lip mismatch. Very short AI video-only descriptions did not accurately resolve camera trajectory and are not used as certification.",
+  "v14_endpoint_mae_8bit": {
+    "89->90": 0.072900591563786,
+    "111->112": 0.04455761316872428
+  },
+  "v14_sha256": "b456716d18ec4e9209cf38f90438c04b47110c8edb17a4f5e45d8c9f1034389c"
+}

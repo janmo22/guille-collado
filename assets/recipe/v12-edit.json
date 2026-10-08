@@ -1,0 +1,540 @@
+{
+  "version": 12,
+  "fps": 30,
+  "duration": 2548,
+  "segments": [
+    {
+      "source": 0,
+      "end": 96,
+      "from": 0,
+      "duration": 96
+    },
+    {
+      "source": 147,
+      "end": 381,
+      "from": 96,
+      "duration": 234
+    },
+    {
+      "source": 390,
+      "end": 675,
+      "from": 330,
+      "duration": 285
+    },
+    {
+      "source": 681,
+      "end": 789,
+      "from": 615,
+      "duration": 108
+    },
+    {
+      "source": 799,
+      "end": 974,
+      "from": 723,
+      "duration": 175
+    },
+    {
+      "source": 980,
+      "end": 1035,
+      "from": 898,
+      "duration": 55
+    },
+    {
+      "source": 1041,
+      "end": 1084,
+      "from": 953,
+      "duration": 43
+    },
+    {
+      "source": 1106,
+      "end": 1219,
+      "from": 996,
+      "duration": 113
+    },
+    {
+      "source": 1231,
+      "end": 1394,
+      "from": 1109,
+      "duration": 163
+    },
+    {
+      "source": 1399,
+      "end": 1432,
+      "from": 1272,
+      "duration": 33
+    },
+    {
+      "source": 1440,
+      "end": 1804,
+      "from": 1305,
+      "duration": 364
+    },
+    {
+      "source": 1817,
+      "end": 1949,
+      "from": 1669,
+      "duration": 132
+    },
+    {
+      "source": 1960,
+      "end": 1998,
+      "from": 1801,
+      "duration": 38
+    },
+    {
+      "source": 2001,
+      "end": 2101,
+      "from": 1839,
+      "duration": 100
+    },
+    {
+      "source": 2108,
+      "end": 2162,
+      "from": 1939,
+      "duration": 54
+    },
+    {
+      "source": 2169,
+      "end": 2194,
+      "from": 1993,
+      "duration": 25
+    },
+    {
+      "source": 2198,
+      "end": 2267,
+      "from": 2018,
+      "duration": 69
+    },
+    {
+      "source": 2277,
+      "end": 2391,
+      "from": 2087,
+      "duration": 114
+    },
+    {
+      "source": 2401,
+      "end": 2470,
+      "from": 2201,
+      "duration": 69
+    },
+    {
+      "source": 2478,
+      "end": 2543,
+      "from": 2270,
+      "duration": 65
+    },
+    {
+      "source": 2549,
+      "end": 2587,
+      "from": 2335,
+      "duration": 38
+    },
+    {
+      "source": 2605,
+      "end": 2780,
+      "from": 2373,
+      "duration": 175
+    }
+  ],
+  "cuts": [
+    {
+      "from": 96,
+      "to": 147,
+      "reason": "Silencio seleccionado y contrastado con palabras"
+    },
+    {
+      "from": 381,
+      "to": 390,
+      "reason": "Silencio seleccionado y contrastado con palabras"
+    },
+    {
+      "from": 675,
+      "to": 681,
+      "reason": "Silencio seleccionado y contrastado con palabras"
+    },
+    {
+      "from": 789,
+      "to": 799,
+      "reason": "Silencio seleccionado y contrastado con palabras"
+    },
+    {
+      "from": 974,
+      "to": 980,
+      "reason": "Silencio seleccionado y contrastado con palabras"
+    },
+    {
+      "from": 1035,
+      "to": 1041,
+      "reason": "Silencio seleccionado y contrastado con palabras"
+    },
+    {
+      "from": 1084,
+      "to": 1106,
+      "reason": "Silencio seleccionado y contrastado con palabras"
+    },
+    {
+      "from": 1219,
+      "to": 1231,
+      "reason": "Silencio seleccionado y contrastado con palabras"
+    },
+    {
+      "from": 1394,
+      "to": 1399,
+      "reason": "Silencio seleccionado y contrastado con palabras"
+    },
+    {
+      "from": 1432,
+      "to": 1440,
+      "reason": "Silencio seleccionado y contrastado con palabras"
+    },
+    {
+      "from": 1804,
+      "to": 1817,
+      "reason": "Silencio seleccionado y contrastado con palabras"
+    },
+    {
+      "from": 1949,
+      "to": 1960,
+      "reason": "Silencio seleccionado y contrastado con palabras"
+    },
+    {
+      "from": 1998,
+      "to": 2001,
+      "reason": "Silencio seleccionado y contrastado con palabras"
+    },
+    {
+      "from": 2101,
+      "to": 2108,
+      "reason": "Silencio seleccionado y contrastado con palabras"
+    },
+    {
+      "from": 2162,
+      "to": 2169,
+      "reason": "Silencio seleccionado y contrastado con palabras"
+    },
+    {
+      "from": 2194,
+      "to": 2198,
+      "reason": "Silencio seleccionado y contrastado con palabras"
+    },
+    {
+      "from": 2267,
+      "to": 2277,
+      "reason": "Silencio seleccionado y contrastado con palabras"
+    },
+    {
+      "from": 2391,
+      "to": 2401,
+      "reason": "Silencio seleccionado y contrastado con palabras"
+    },
+    {
+      "from": 2470,
+      "to": 2478,
+      "reason": "Silencio seleccionado y contrastado con palabras"
+    },
+    {
+      "from": 2543,
+      "to": 2549,
+      "reason": "Silencio seleccionado y contrastado con palabras"
+    },
+    {
+      "from": 2587,
+      "to": 2605,
+      "reason": "Silencio seleccionado y contrastado con palabras"
+    }
+  ],
+  "transitions": [
+    {
+      "source": 147,
+      "at": 96,
+      "kind": "cut",
+      "direction": 1,
+      "pre": 0,
+      "post": 0,
+      "purpose": "hook → afirmación"
+    },
+    {
+      "source": 183,
+      "at": 132,
+      "kind": "cut",
+      "direction": 1,
+      "pre": 0,
+      "post": 0,
+      "purpose": "abre vídeo de Guille"
+    },
+    {
+      "source": 242,
+      "at": 191,
+      "kind": "cut",
+      "direction": -1,
+      "pre": 0,
+      "post": 0,
+      "purpose": "referencia → día uno"
+    },
+    {
+      "source": 390,
+      "at": 330,
+      "kind": "cut",
+      "direction": 1,
+      "pre": 0,
+      "post": 0,
+      "purpose": "he entrenado / golpe musical"
+    },
+    {
+      "source": 519,
+      "at": 459,
+      "kind": "cut",
+      "direction": -1,
+      "pre": 0,
+      "post": 0,
+      "purpose": "entra Claude"
+    },
+    {
+      "source": 639,
+      "at": 579,
+      "kind": "cut",
+      "direction": 1,
+      "pre": 0,
+      "post": 0,
+      "purpose": "Claude → sí entera"
+    },
+    {
+      "source": 680,
+      "at": 615,
+      "kind": "cut",
+      "direction": -1,
+      "pre": 0,
+      "post": 0,
+      "purpose": "cambios de plano"
+    },
+    {
+      "source": 798,
+      "at": 723,
+      "kind": "cut",
+      "direction": 1,
+      "pre": 0,
+      "post": 0,
+      "purpose": "así que"
+    },
+    {
+      "source": 904,
+      "at": 828,
+      "kind": "cut",
+      "direction": -1,
+      "pre": 0,
+      "post": 0,
+      "purpose": "cuatro posiciones"
+    },
+    {
+      "source": 1041,
+      "at": 953,
+      "kind": "cut",
+      "direction": 1,
+      "pre": 0,
+      "post": 0,
+      "purpose": "genial"
+    },
+    {
+      "source": 1105,
+      "at": 996,
+      "kind": "cut",
+      "direction": 1,
+      "pre": 0,
+      "post": 0,
+      "purpose": "ahora qué → respuesta"
+    },
+    {
+      "source": 1229,
+      "at": 1109,
+      "kind": "cut",
+      "direction": -1,
+      "pre": 0,
+      "post": 0,
+      "purpose": "efectos de sonido"
+    },
+    {
+      "source": 1440,
+      "at": 1305,
+      "kind": "cut",
+      "direction": 1,
+      "pre": 0,
+      "post": 0,
+      "purpose": "perfecto / transiciones"
+    },
+    {
+      "source": 1490,
+      "at": 1355,
+      "kind": "hand",
+      "direction": 1,
+      "pre": 0,
+      "post": 0,
+      "purpose": "la transición al decir transiciones"
+    },
+    {
+      "source": 1622,
+      "at": 1487,
+      "kind": "cut",
+      "direction": -1,
+      "pre": 0,
+      "post": 0,
+      "purpose": "plano intermedio"
+    },
+    {
+      "source": 1713,
+      "at": 1578,
+      "kind": "cut",
+      "direction": 1,
+      "pre": 0,
+      "post": 0,
+      "purpose": "tarjeta → toma real"
+    },
+    {
+      "source": 1815,
+      "at": 1669,
+      "kind": "cut",
+      "direction": -1,
+      "pre": 0,
+      "post": 0,
+      "purpose": "pero no me quedé ahí"
+    },
+    {
+      "source": 1960,
+      "at": 1801,
+      "kind": "cut",
+      "direction": -1,
+      "pre": 0,
+      "post": 0,
+      "purpose": "todos los vídeos"
+    },
+    {
+      "source": 2176,
+      "at": 2000,
+      "kind": "cut",
+      "direction": 1,
+      "pre": 0,
+      "post": 0,
+      "purpose": "perfil → dirigir"
+    },
+    {
+      "source": 2276,
+      "at": 2087,
+      "kind": "cut",
+      "direction": 1,
+      "pre": 0,
+      "post": 0,
+      "purpose": "boom"
+    },
+    {
+      "source": 2301,
+      "at": 2111,
+      "kind": "cut",
+      "direction": -1,
+      "pre": 0,
+      "post": 0,
+      "purpose": "paquetizar"
+    },
+    {
+      "source": 2400,
+      "at": 2201,
+      "kind": "cut",
+      "direction": 1,
+      "pre": 0,
+      "post": 0,
+      "purpose": "carpeta → Claude"
+    },
+    {
+      "source": 2552,
+      "at": 2338,
+      "kind": "cut",
+      "direction": 1,
+      "pre": 0,
+      "post": 0,
+      "purpose": "resultado → minutos"
+    },
+    {
+      "source": 2605,
+      "at": 2373,
+      "kind": "cut",
+      "direction": -1,
+      "pre": 0,
+      "post": 0,
+      "purpose": "CTA"
+    }
+  ],
+  "punches": [],
+  "previous_duration": 2594,
+  "extra_microcuts": [
+    {
+      "from": 789,
+      "to": 799,
+      "new_frames": 4,
+      "between": [
+        "vídeo.",
+        "Así"
+      ]
+    },
+    {
+      "from": 1394,
+      "to": 1399,
+      "new_frames": 5,
+      "between": [
+        "todo",
+        "vaya"
+      ]
+    },
+    {
+      "from": 1804,
+      "to": 1817,
+      "new_frames": 3,
+      "between": [
+        "clean",
+        "Pero"
+      ]
+    },
+    {
+      "to": 2001,
+      "new_frames": 3,
+      "between": [
+        "todos",
+        "los"
+      ],
+      "from": 1998
+    },
+    {
+      "to": 2108,
+      "new_frames": 7,
+      "between": [
+        "cuándo",
+        "y"
+      ],
+      "from": 2101
+    },
+    {
+      "to": 2401,
+      "new_frames": 10,
+      "between": [
+        "Claude.",
+        "simplemente"
+      ],
+      "from": 2391
+    },
+    {
+      "to": 2478,
+      "new_frames": 8,
+      "between": [
+        "brutos",
+        "él"
+      ],
+      "from": 2470
+    },
+    {
+      "to": 2549,
+      "new_frames": 6,
+      "between": [
+        "todo.",
+        "en"
+      ],
+      "from": 2543
+    }
+  ]
+}

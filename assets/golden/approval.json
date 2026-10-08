@@ -1,0 +1,14 @@
+{
+  "date": "2026-09-21",
+  "user_feedback": "muy tocho; única cosa: primera transición y Básicamente suena como un gallo",
+  "approved": "v13 except first transition and Básicamente voice",
+  "previous_v13_sha256": "bfd7e61c1f1cd29b31d18ae72bf5158866683d8257f01ced9a666d07e139010c",
+  "latest_delivery": "dia1-entrega-v14.mp4",
+  "latest_delivery_sha256": "b456716d18ec4e9209cf38f90438c04b47110c8edb17a4f5e45d8c9f1034389c",
+  "latest_user_approval": false,
+  "corrections": [
+    "First transition uses final composite frames89→112 in [90,112); no extra lens or endpoint dissolve.",
+    "Básicamente uses real Jan takeD222.78–223.45, cleaned and fitted with pitch preserved."
+  ],
+  "scope": "Jan Guille/Día1 format"
+}

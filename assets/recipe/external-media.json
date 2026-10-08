@@ -1,0 +1,247 @@
+[
+  {
+    "name": "base-frames",
+    "type": "directory",
+    "purpose": "asset específico Día1; recrear con nuevos brutos, no dependencia del runtime genérico"
+  },
+  {
+    "name": "bridge-end.jpg",
+    "type": "file",
+    "purpose": "asset específico Día1; recrear con nuevos brutos, no dependencia del runtime genérico"
+  },
+  {
+    "name": "bridge-heading.svg",
+    "type": "file",
+    "purpose": "asset específico Día1; recrear con nuevos brutos, no dependencia del runtime genérico"
+  },
+  {
+    "name": "bridge-live",
+    "type": "directory",
+    "purpose": "asset específico Día1; recrear con nuevos brutos, no dependencia del runtime genérico"
+  },
+  {
+    "name": "bridge-mid.jpg",
+    "type": "file",
+    "purpose": "asset específico Día1; recrear con nuevos brutos, no dependencia del runtime genérico"
+  },
+  {
+    "name": "bridge-start.jpg",
+    "type": "file",
+    "purpose": "asset específico Día1; recrear con nuevos brutos, no dependencia del runtime genérico"
+  },
+  {
+    "name": "bruto-A.jpg",
+    "type": "file",
+    "purpose": "asset específico Día1; recrear con nuevos brutos, no dependencia del runtime genérico"
+  },
+  {
+    "name": "bruto-A.mp4",
+    "type": "file",
+    "purpose": "asset específico Día1; recrear con nuevos brutos, no dependencia del runtime genérico"
+  },
+  {
+    "name": "bruto-B.jpg",
+    "type": "file",
+    "purpose": "asset específico Día1; recrear con nuevos brutos, no dependencia del runtime genérico"
+  },
+  {
+    "name": "bruto-B.mp4",
+    "type": "file",
+    "purpose": "asset específico Día1; recrear con nuevos brutos, no dependencia del runtime genérico"
+  },
+  {
+    "name": "bruto-C.jpg",
+    "type": "file",
+    "purpose": "asset específico Día1; recrear con nuevos brutos, no dependencia del runtime genérico"
+  },
+  {
+    "name": "bruto-C.mp4",
+    "type": "file",
+    "purpose": "asset específico Día1; recrear con nuevos brutos, no dependencia del runtime genérico"
+  },
+  {
+    "name": "bruto-D.jpg",
+    "type": "file",
+    "purpose": "asset específico Día1; recrear con nuevos brutos, no dependencia del runtime genérico"
+  },
+  {
+    "name": "bruto-D.mp4",
+    "type": "file",
+    "purpose": "asset específico Día1; recrear con nuevos brutos, no dependencia del runtime genérico"
+  },
+  {
+    "name": "camara-transicion.mp4",
+    "type": "file",
+    "purpose": "asset específico Día1; recrear con nuevos brutos, no dependencia del runtime genérico"
+  },
+  {
+    "name": "fonts",
+    "type": "directory",
+    "purpose": "asset específico Día1; recrear con nuevos brutos, no dependencia del runtime genérico"
+  },
+  {
+    "name": "g01-bridge.mp4",
+    "type": "file",
+    "purpose": "asset específico Día1; recrear con nuevos brutos, no dependencia del runtime genérico"
+  },
+  {
+    "name": "g02-laptop.mp4",
+    "type": "file",
+    "purpose": "asset específico Día1; recrear con nuevos brutos, no dependencia del runtime genérico"
+  },
+  {
+    "name": "genial-ia-v12.mp4",
+    "type": "file",
+    "purpose": "asset específico Día1; recrear con nuevos brutos, no dependencia del runtime genérico"
+  },
+  {
+    "name": "guille-avatar.jpg",
+    "type": "file",
+    "purpose": "asset específico Día1; recrear con nuevos brutos, no dependencia del runtime genérico"
+  },
+  {
+    "name": "hand-frames",
+    "type": "directory",
+    "purpose": "asset específico Día1; recrear con nuevos brutos, no dependencia del runtime genérico"
+  },
+  {
+    "name": "hero-lens-map.png",
+    "type": "file",
+    "purpose": "asset específico Día1; recrear con nuevos brutos, no dependencia del runtime genérico"
+  },
+  {
+    "name": "imagen-base.mp4",
+    "type": "file",
+    "purpose": "asset específico Día1; recrear con nuevos brutos, no dependencia del runtime genérico"
+  },
+  {
+    "name": "inicio-ia-v12.mp4",
+    "type": "file",
+    "purpose": "asset específico Día1; recrear con nuevos brutos, no dependencia del runtime genérico"
+  },
+  {
+    "name": "inicio-transicion.mp4",
+    "type": "file",
+    "purpose": "asset específico Día1; recrear con nuevos brutos, no dependencia del runtime genérico"
+  },
+  {
+    "name": "instagram-scroll-real.png",
+    "type": "file",
+    "purpose": "asset específico Día1; recrear con nuevos brutos, no dependencia del runtime genérico"
+  },
+  {
+    "name": "master-v12-entrega.wav",
+    "type": "file",
+    "purpose": "asset específico Día1; recrear con nuevos brutos, no dependencia del runtime genérico"
+  },
+  {
+    "name": "master-v7.wav",
+    "type": "file",
+    "purpose": "asset específico Día1; recrear con nuevos brutos, no dependencia del runtime genérico"
+  },
+  {
+    "name": "master-v8.wav",
+    "type": "file",
+    "purpose": "asset específico Día1; recrear con nuevos brutos, no dependencia del runtime genérico"
+  },
+  {
+    "name": "master-v9-entrega.wav",
+    "type": "file",
+    "purpose": "asset específico Día1; recrear con nuevos brutos, no dependencia del runtime genérico"
+  },
+  {
+    "name": "matte-boom.mov",
+    "type": "file",
+    "purpose": "asset específico Día1; recrear con nuevos brutos, no dependencia del runtime genérico"
+  },
+  {
+    "name": "matte-clean.mov",
+    "type": "file",
+    "purpose": "asset específico Día1; recrear con nuevos brutos, no dependencia del runtime genérico"
+  },
+  {
+    "name": "matte-creadores.mov",
+    "type": "file",
+    "purpose": "asset específico Día1; recrear con nuevos brutos, no dependencia del runtime genérico"
+  },
+  {
+    "name": "matte-cta.mov",
+    "type": "file",
+    "purpose": "asset específico Día1; recrear con nuevos brutos, no dependencia del runtime genérico"
+  },
+  {
+    "name": "matte-hook.mov",
+    "type": "file",
+    "purpose": "asset específico Día1; recrear con nuevos brutos, no dependencia del runtime genérico"
+  },
+  {
+    "name": "matte-palabras.mov",
+    "type": "file",
+    "purpose": "asset específico Día1; recrear con nuevos brutos, no dependencia del runtime genérico"
+  },
+  {
+    "name": "matte-return-lens.mov",
+    "type": "file",
+    "purpose": "asset específico Día1; recrear con nuevos brutos, no dependencia del runtime genérico"
+  },
+  {
+    "name": "matte-return.mov",
+    "type": "file",
+    "purpose": "asset específico Día1; recrear con nuevos brutos, no dependencia del runtime genérico"
+  },
+  {
+    "name": "person-masks",
+    "type": "directory",
+    "purpose": "asset específico Día1; recrear con nuevos brutos, no dependencia del runtime genérico"
+  },
+  {
+    "name": "precomposed",
+    "type": "directory",
+    "purpose": "asset específico Día1; recrear con nuevos brutos, no dependencia del runtime genérico"
+  },
+  {
+    "name": "referencia.mp4",
+    "type": "file",
+    "purpose": "asset específico Día1; recrear con nuevos brutos, no dependencia del runtime genérico"
+  },
+  {
+    "name": "resultado-v12.mp4",
+    "type": "file",
+    "purpose": "asset específico Día1; recrear con nuevos brutos, no dependencia del runtime genérico"
+  },
+  {
+    "name": "resultado-v7.mp4",
+    "type": "file",
+    "purpose": "asset específico Día1; recrear con nuevos brutos, no dependencia del runtime genérico"
+  },
+  {
+    "name": "resultado-v8.mp4",
+    "type": "file",
+    "purpose": "asset específico Día1; recrear con nuevos brutos, no dependencia del runtime genérico"
+  },
+  {
+    "name": "resultado-v9.mp4",
+    "type": "file",
+    "purpose": "asset específico Día1; recrear con nuevos brutos, no dependencia del runtime genérico"
+  },
+  {
+    "name": "screen-displacement.png",
+    "type": "file",
+    "purpose": "asset específico Día1; recrear con nuevos brutos, no dependencia del runtime genérico"
+  },
+  {
+    "name": "tipografia-demo-v7.mp4",
+    "type": "file",
+    "purpose": "asset específico Día1; recrear con nuevos brutos, no dependencia del runtime genérico"
+  },
+  {
+    "name": "type-cache",
+    "type": "directory",
+    "purpose": "asset específico Día1; recrear con nuevos brutos, no dependencia del runtime genérico"
+  },
+  {
+    "name": "v6-antes.mp4",
+    "type": "file",
+    "purpose": "asset específico Día1; recrear con nuevos brutos, no dependencia del runtime genérico"
+  }
+]

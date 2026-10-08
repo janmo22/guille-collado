@@ -1,0 +1,1726 @@
+[
+  {
+    "from": 21,
+    "to": 40,
+    "unit": "u01",
+    "words": [
+      {
+        "text": "Este",
+        "at": 21
+      },
+      {
+        "text": "vídeo",
+        "at": 30
+      }
+    ]
+  },
+  {
+    "from": 40,
+    "to": 63,
+    "unit": "u01",
+    "words": [
+      {
+        "text": "me",
+        "at": 40
+      },
+      {
+        "text": "lo",
+        "at": 49
+      },
+      {
+        "text": "ha",
+        "at": 52
+      },
+      {
+        "text": "editado",
+        "at": 54
+      }
+    ]
+  },
+  {
+    "from": 63,
+    "to": 91,
+    "unit": "u01",
+    "words": [
+      {
+        "text": "entero",
+        "at": 63
+      },
+      {
+        "text": "Claude.",
+        "at": 76
+      }
+    ]
+  },
+  {
+    "from": 149,
+    "to": 169,
+    "unit": "u02",
+    "words": [
+      {
+        "text": "Y",
+        "at": 149
+      },
+      {
+        "text": "efectivamente",
+        "at": 153
+      }
+    ]
+  },
+  {
+    "from": 169,
+    "to": 202,
+    "unit": "u02",
+    "words": [
+      {
+        "text": "es",
+        "at": 169
+      },
+      {
+        "text": "como",
+        "at": 192
+      },
+      {
+        "text": "el",
+        "at": 199
+      }
+    ]
+  },
+  {
+    "from": 202,
+    "to": 236,
+    "unit": "u02",
+    "words": [
+      {
+        "text": "de Guille",
+        "at": 202
+      },
+      {
+        "text": "Collado.",
+        "at": 211
+      }
+    ]
+  },
+  {
+    "from": 242,
+    "to": 271,
+    "unit": "u03",
+    "words": [
+      {
+        "text": "bienvenido",
+        "at": 242
+      },
+      {
+        "text": "al",
+        "at": 254
+      },
+      {
+        "text": "día",
+        "at": 258
+      },
+      {
+        "text": "uno",
+        "at": 262
+      }
+    ]
+  },
+  {
+    "from": 271,
+    "to": 300,
+    "unit": "u03",
+    "words": [
+      {
+        "text": "haciendo",
+        "at": 271
+      },
+      {
+        "text": "que",
+        "at": 283
+      },
+      {
+        "text": "Claude",
+        "at": 291
+      }
+    ]
+  },
+  {
+    "from": 300,
+    "to": 324,
+    "unit": "u03",
+    "words": [
+      {
+        "text": "me",
+        "at": 300
+      },
+      {
+        "text": "edite",
+        "at": 306
+      },
+      {
+        "text": "los",
+        "at": 310
+      },
+      {
+        "text": "vídeos",
+        "at": 315
+      }
+    ]
+  },
+  {
+    "from": 324,
+    "to": 348,
+    "unit": "u03",
+    "words": [
+      {
+        "text": "como",
+        "at": 324
+      },
+      {
+        "text": "el",
+        "at": 334
+      },
+      {
+        "text": "creador",
+        "at": 339
+      }
+    ]
+  },
+  {
+    "from": 348,
+    "to": 380,
+    "unit": "u03",
+    "words": [
+      {
+        "text": "que",
+        "at": 348
+      },
+      {
+        "text": "a",
+        "at": 357
+      },
+      {
+        "text": "mí",
+        "at": 361
+      },
+      {
+        "text": "me",
+        "at": 362
+      },
+      {
+        "text": "dé",
+        "at": 366
+      },
+      {
+        "text": "la",
+        "at": 370
+      },
+      {
+        "text": "gana.",
+        "at": 372
+      }
+    ]
+  },
+  {
+    "from": 393,
+    "to": 417,
+    "unit": "u04a",
+    "words": [
+      {
+        "text": "y",
+        "at": 393
+      },
+      {
+        "text": "es",
+        "at": 394
+      },
+      {
+        "text": "que",
+        "at": 397
+      },
+      {
+        "text": "he",
+        "at": 401
+      },
+      {
+        "text": "entrenado",
+        "at": 403
+      },
+      {
+        "text": "a",
+        "at": 409
+      },
+      {
+        "text": "la",
+        "at": 411
+      },
+      {
+        "text": "IA",
+        "at": 414
+      }
+    ]
+  },
+  {
+    "from": 417,
+    "to": 440,
+    "unit": "u04a",
+    "words": [
+      {
+        "text": "para",
+        "at": 417
+      },
+      {
+        "text": "que",
+        "at": 424
+      },
+      {
+        "text": "sea",
+        "at": 428
+      },
+      {
+        "text": "capaz",
+        "at": 433
+      }
+    ]
+  },
+  {
+    "from": 440,
+    "to": 464,
+    "unit": "u04a",
+    "words": [
+      {
+        "text": "de",
+        "at": 440
+      },
+      {
+        "text": "entender",
+        "at": 448
+      },
+      {
+        "text": "exactamente",
+        "at": 454
+      }
+    ]
+  },
+  {
+    "from": 464,
+    "to": 519,
+    "unit": "u04a",
+    "words": [
+      {
+        "text": "cómo",
+        "at": 464
+      },
+      {
+        "text": "Guille",
+        "at": 489
+      },
+      {
+        "text": "Collado",
+        "at": 496
+      },
+      {
+        "text": "edita",
+        "at": 506
+      }
+    ]
+  },
+  {
+    "from": 523,
+    "to": 540,
+    "unit": "u04b",
+    "words": [
+      {
+        "text": "Y",
+        "at": 523
+      },
+      {
+        "text": "que",
+        "at": 525
+      },
+      {
+        "text": "solamente",
+        "at": 528
+      }
+    ]
+  },
+  {
+    "from": 540,
+    "to": 572,
+    "unit": "u04b",
+    "words": [
+      {
+        "text": "mandándole",
+        "at": 540
+      },
+      {
+        "text": "mis",
+        "at": 555
+      },
+      {
+        "text": "brutos",
+        "at": 561
+      }
+    ]
+  },
+  {
+    "from": 572,
+    "to": 595,
+    "unit": "u04b",
+    "words": [
+      {
+        "text": "me",
+        "at": 572
+      },
+      {
+        "text": "devuelva",
+        "at": 578
+      }
+    ]
+  },
+  {
+    "from": 595,
+    "to": 625,
+    "unit": "u04b",
+    "words": [
+      {
+        "text": "la",
+        "at": 595
+      },
+      {
+        "text": "pieza",
+        "at": 598
+      },
+      {
+        "text": "completa.",
+        "at": 607
+      }
+    ]
+  },
+  {
+    "from": 639,
+    "to": 674,
+    "unit": "u05",
+    "words": [
+      {
+        "text": "Sí,",
+        "at": 639
+      },
+      {
+        "text": "entera.",
+        "at": 657
+      }
+    ]
+  },
+  {
+    "from": 684,
+    "to": 714,
+    "unit": "u06",
+    "words": [
+      {
+        "text": "Y",
+        "at": 684
+      },
+      {
+        "text": "es",
+        "at": 685
+      },
+      {
+        "text": "que",
+        "at": 688
+      },
+      {
+        "text": "él",
+        "at": 692
+      },
+      {
+        "text": "se",
+        "at": 696
+      },
+      {
+        "text": "caracteriza",
+        "at": 700
+      }
+    ]
+  },
+  {
+    "from": 714,
+    "to": 730,
+    "unit": "u06",
+    "words": [
+      {
+        "text": "sobre",
+        "at": 714
+      },
+      {
+        "text": "todo",
+        "at": 722
+      }
+    ]
+  },
+  {
+    "from": 730,
+    "to": 760,
+    "unit": "u06",
+    "words": [
+      {
+        "text": "por",
+        "at": 730
+      },
+      {
+        "text": "los",
+        "at": 737
+      },
+      {
+        "text": "cambios",
+        "at": 742
+      },
+      {
+        "text": "de",
+        "at": 750
+      },
+      {
+        "text": "plano",
+        "at": 755
+      }
+    ]
+  },
+  {
+    "from": 760,
+    "to": 789,
+    "unit": "u06",
+    "words": [
+      {
+        "text": "en",
+        "at": 760
+      },
+      {
+        "text": "un",
+        "at": 766
+      },
+      {
+        "text": "mismo",
+        "at": 769
+      },
+      {
+        "text": "vídeo.",
+        "at": 778
+      }
+    ]
+  },
+  {
+    "from": 801,
+    "to": 817,
+    "unit": "u07a",
+    "words": [
+      {
+        "text": "Así",
+        "at": 801
+      },
+      {
+        "text": "que",
+        "at": 806
+      },
+      {
+        "text": "lo",
+        "at": 809
+      },
+      {
+        "text": "que",
+        "at": 813
+      }
+    ]
+  },
+  {
+    "from": 817,
+    "to": 842,
+    "unit": "u07a",
+    "words": [
+      {
+        "text": "estaba",
+        "at": 817
+      },
+      {
+        "text": "claro",
+        "at": 827
+      },
+      {
+        "text": "es",
+        "at": 834
+      },
+      {
+        "text": "que",
+        "at": 838
+      }
+    ]
+  },
+  {
+    "from": 842,
+    "to": 860,
+    "unit": "u07a",
+    "words": [
+      {
+        "text": "tenía",
+        "at": 842
+      },
+      {
+        "text": "que",
+        "at": 846
+      },
+      {
+        "text": "mandarle",
+        "at": 849
+      }
+    ]
+  },
+  {
+    "from": 860,
+    "to": 889,
+    "unit": "u07a",
+    "words": [
+      {
+        "text": "sí",
+        "at": 860
+      },
+      {
+        "text": "o",
+        "at": 869
+      },
+      {
+        "text": "sí",
+        "at": 873
+      },
+      {
+        "text": "a",
+        "at": 877
+      },
+      {
+        "text": "Claude",
+        "at": 880
+      }
+    ]
+  },
+  {
+    "from": 889,
+    "to": 916,
+    "unit": "u07a",
+    "words": [
+      {
+        "text": "el",
+        "at": 889
+      },
+      {
+        "text": "mismo",
+        "at": 898
+      },
+      {
+        "text": "vídeo",
+        "at": 906
+      }
+    ]
+  },
+  {
+    "from": 916,
+    "to": 975,
+    "unit": "u07a",
+    "words": [
+      {
+        "text": "en",
+        "at": 916
+      },
+      {
+        "text": "cuatro",
+        "at": 924
+      },
+      {
+        "text": "posiciones",
+        "at": 935
+      },
+      {
+        "text": "distintas.",
+        "at": 949
+      }
+    ]
+  },
+  {
+    "from": 982,
+    "to": 1004,
+    "unit": "u07b",
+    "words": [
+      {
+        "text": "Para",
+        "at": 982
+      },
+      {
+        "text": "que",
+        "at": 991
+      },
+      {
+        "text": "él",
+        "at": 997
+      }
+    ]
+  },
+  {
+    "from": 1004,
+    "to": 1035,
+    "unit": "u07b",
+    "words": [
+      {
+        "text": "hiciera",
+        "at": 1004
+      },
+      {
+        "text": "la",
+        "at": 1017
+      },
+      {
+        "text": "magia.",
+        "at": 1022
+      }
+    ]
+  },
+  {
+    "from": 1044,
+    "to": 1061,
+    "unit": "u08",
+    "words": [
+      {
+        "text": "Genial,",
+        "at": 1044
+      },
+      {
+        "text": "pero",
+        "at": 1057
+      }
+    ]
+  },
+  {
+    "from": 1061,
+    "to": 1084,
+    "unit": "u08",
+    "words": [
+      {
+        "text": "¿y",
+        "at": 1061
+      },
+      {
+        "text": "ahora",
+        "at": 1069
+      },
+      {
+        "text": "qué?",
+        "at": 1075
+      }
+    ]
+  },
+  {
+    "from": 1109,
+    "to": 1129,
+    "unit": "u09",
+    "words": [
+      {
+        "text": "Le",
+        "at": 1109
+      },
+      {
+        "text": "empecé",
+        "at": 1113
+      },
+      {
+        "text": "a",
+        "at": 1119
+      },
+      {
+        "text": "contar",
+        "at": 1122
+      }
+    ]
+  },
+  {
+    "from": 1129,
+    "to": 1150,
+    "unit": "u09",
+    "words": [
+      {
+        "text": "cómo",
+        "at": 1129
+      },
+      {
+        "text": "él",
+        "at": 1137
+      },
+      {
+        "text": "pone",
+        "at": 1143
+      }
+    ]
+  },
+  {
+    "from": 1150,
+    "to": 1176,
+    "unit": "u09",
+    "words": [
+      {
+        "text": "las",
+        "at": 1150
+      },
+      {
+        "text": "palabras",
+        "at": 1155
+      },
+      {
+        "text": "clave",
+        "at": 1165
+      }
+    ]
+  },
+  {
+    "from": 1176,
+    "to": 1219,
+    "unit": "u09",
+    "words": [
+      {
+        "text": "que",
+        "at": 1176
+      },
+      {
+        "text": "él",
+        "at": 1182
+      },
+      {
+        "text": "añade",
+        "at": 1186
+      },
+      {
+        "text": "detrás",
+        "at": 1195
+      },
+      {
+        "text": "suya.",
+        "at": 1205
+      }
+    ]
+  },
+  {
+    "from": 1233,
+    "to": 1249,
+    "unit": "u10",
+    "words": [
+      {
+        "text": "Así",
+        "at": 1233
+      },
+      {
+        "text": "como",
+        "at": 1238
+      },
+      {
+        "text": "los",
+        "at": 1245
+      }
+    ]
+  },
+  {
+    "from": 1249,
+    "to": 1277,
+    "unit": "u10",
+    "words": [
+      {
+        "text": "efectos",
+        "at": 1249
+      },
+      {
+        "text": "de",
+        "at": 1258
+      },
+      {
+        "text": "sonido,",
+        "at": 1262
+      }
+    ]
+  },
+  {
+    "from": 1277,
+    "to": 1303,
+    "unit": "u10",
+    "words": [
+      {
+        "text": "los",
+        "at": 1277
+      },
+      {
+        "text": "cambios",
+        "at": 1281
+      },
+      {
+        "text": "de",
+        "at": 1290
+      },
+      {
+        "text": "ritmo",
+        "at": 1294
+      }
+    ]
+  },
+  {
+    "from": 1303,
+    "to": 1339,
+    "unit": "u10",
+    "words": [
+      {
+        "text": "y",
+        "at": 1303
+      },
+      {
+        "text": "el",
+        "at": 1309
+      },
+      {
+        "text": "estilo",
+        "at": 1312
+      },
+      {
+        "text": "de",
+        "at": 1325
+      },
+      {
+        "text": "música",
+        "at": 1330
+      }
+    ]
+  },
+  {
+    "from": 1339,
+    "to": 1366,
+    "unit": "u10",
+    "words": [
+      {
+        "text": "que",
+        "at": 1339
+      },
+      {
+        "text": "él",
+        "at": 1351
+      },
+      {
+        "text": "pone",
+        "at": 1357
+      }
+    ]
+  },
+  {
+    "from": 1366,
+    "to": 1432,
+    "unit": "u10",
+    "words": [
+      {
+        "text": "para",
+        "at": 1366
+      },
+      {
+        "text": "que",
+        "at": 1378
+      },
+      {
+        "text": "todo",
+        "at": 1384
+      },
+      {
+        "text": "vaya",
+        "at": 1401
+      },
+      {
+        "text": "coordinado.",
+        "at": 1411
+      }
+    ]
+  },
+  {
+    "from": 1443,
+    "to": 1470,
+    "unit": "u11",
+    "words": [
+      {
+        "text": "Perfecto,",
+        "at": 1443
+      },
+      {
+        "text": "pero",
+        "at": 1466
+      }
+    ]
+  },
+  {
+    "from": 1470,
+    "to": 1507,
+    "unit": "u11",
+    "words": [
+      {
+        "text": "¿y",
+        "at": 1470
+      },
+      {
+        "text": "las",
+        "at": 1486
+      },
+      {
+        "text": "transiciones?",
+        "at": 1490
+      }
+    ]
+  },
+  {
+    "from": 1519,
+    "to": 1559,
+    "unit": "u12a",
+    "words": [
+      {
+        "text": "Pues",
+        "at": 1519
+      },
+      {
+        "text": "muy",
+        "at": 1528
+      },
+      {
+        "text": "fácil,",
+        "at": 1541
+      }
+    ]
+  },
+  {
+    "from": 1559,
+    "to": 1580,
+    "unit": "u12a",
+    "words": [
+      {
+        "text": "le",
+        "at": 1559
+      },
+      {
+        "text": "enseñé",
+        "at": 1562
+      },
+      {
+        "text": "a",
+        "at": 1570
+      },
+      {
+        "text": "Claude",
+        "at": 1573
+      }
+    ]
+  },
+  {
+    "from": 1580,
+    "to": 1599,
+    "unit": "u12a",
+    "words": [
+      {
+        "text": "que",
+        "at": 1580
+      },
+      {
+        "text": "para",
+        "at": 1587
+      },
+      {
+        "text": "hacer",
+        "at": 1593
+      }
+    ]
+  },
+  {
+    "from": 1599,
+    "to": 1625,
+    "unit": "u12a",
+    "words": [
+      {
+        "text": "las",
+        "at": 1599
+      },
+      {
+        "text": "transiciones",
+        "at": 1603
+      }
+    ]
+  },
+  {
+    "from": 1625,
+    "to": 1643,
+    "unit": "u12b",
+    "words": [
+      {
+        "text": "Tenía",
+        "at": 1625
+      },
+      {
+        "text": "que",
+        "at": 1634
+      },
+      {
+        "text": "crear",
+        "at": 1637
+      }
+    ]
+  },
+  {
+    "from": 1643,
+    "to": 1661,
+    "unit": "u12b",
+    "words": [
+      {
+        "text": "un",
+        "at": 1643
+      },
+      {
+        "text": "plano",
+        "at": 1652
+      }
+    ]
+  },
+  {
+    "from": 1661,
+    "to": 1704,
+    "unit": "u12b",
+    "words": [
+      {
+        "text": "en",
+        "at": 1661
+      },
+      {
+        "text": "medio",
+        "at": 1670
+      },
+      {
+        "text": "de",
+        "at": 1677
+      },
+      {
+        "text": "dos",
+        "at": 1681
+      },
+      {
+        "text": "clips.",
+        "at": 1691
+      }
+    ]
+  },
+  {
+    "from": 1717,
+    "to": 1731,
+    "unit": "u12c",
+    "words": [
+      {
+        "text": "y",
+        "at": 1717
+      },
+      {
+        "text": "juntarlos",
+        "at": 1719
+      },
+      {
+        "text": "después",
+        "at": 1731
+      }
+    ]
+  },
+  {
+    "from": 1731,
+    "to": 1768,
+    "unit": "u12c",
+    "words": [
+      {
+        "text": "para",
+        "at": 1731
+      },
+      {
+        "text": "que",
+        "at": 1755
+      },
+      {
+        "text": "quedara",
+        "at": 1759
+      }
+    ]
+  },
+  {
+    "from": 1768,
+    "to": 1804,
+    "unit": "u12c",
+    "words": [
+      {
+        "text": "todo",
+        "at": 1768
+      },
+      {
+        "text": "super",
+        "at": 1782
+      },
+      {
+        "text": "clean",
+        "at": 1793
+      }
+    ]
+  },
+  {
+    "from": 1819,
+    "to": 1843,
+    "unit": "u13",
+    "words": [
+      {
+        "text": "Pero",
+        "at": 1819
+      },
+      {
+        "text": "no",
+        "at": 1825
+      },
+      {
+        "text": "me",
+        "at": 1829
+      },
+      {
+        "text": "quedé",
+        "at": 1834
+      },
+      {
+        "text": "ahí,",
+        "at": 1838
+      }
+    ]
+  },
+  {
+    "from": 1843,
+    "to": 1865,
+    "unit": "u13",
+    "words": [
+      {
+        "text": "porque",
+        "at": 1843
+      },
+      {
+        "text": "está",
+        "at": 1851
+      },
+      {
+        "text": "muy",
+        "at": 1856
+      },
+      {
+        "text": "bien",
+        "at": 1861
+      }
+    ]
+  },
+  {
+    "from": 1865,
+    "to": 1885,
+    "unit": "u13",
+    "words": [
+      {
+        "text": "que",
+        "at": 1865
+      },
+      {
+        "text": "sepa",
+        "at": 1868
+      },
+      {
+        "text": "hacer",
+        "at": 1876
+      },
+      {
+        "text": "las",
+        "at": 1880
+      },
+      {
+        "text": "cosas",
+        "at": 1885
+      }
+    ]
+  },
+  {
+    "from": 1885,
+    "to": 1922,
+    "unit": "u13",
+    "words": [
+      {
+        "text": "si",
+        "at": 1885
+      },
+      {
+        "text": "luego",
+        "at": 1903
+      },
+      {
+        "text": "no",
+        "at": 1911
+      },
+      {
+        "text": "hay",
+        "at": 1919
+      }
+    ]
+  },
+  {
+    "from": 1922,
+    "to": 1949,
+    "unit": "u13",
+    "words": [
+      {
+        "text": "ningún",
+        "at": 1922
+      },
+      {
+        "text": "criterio.",
+        "at": 1931
+      }
+    ]
+  },
+  {
+    "from": 1963,
+    "to": 1985,
+    "unit": "u14a",
+    "words": [
+      {
+        "text": "Así",
+        "at": 1963
+      },
+      {
+        "text": "que",
+        "at": 1967
+      },
+      {
+        "text": "le",
+        "at": 1972
+      },
+      {
+        "text": "mandé",
+        "at": 1976
+      }
+    ]
+  },
+  {
+    "from": 1985,
+    "to": 2019,
+    "unit": "u14a",
+    "words": [
+      {
+        "text": "todos",
+        "at": 1985
+      },
+      {
+        "text": "los",
+        "at": 2004
+      },
+      {
+        "text": "vídeos",
+        "at": 2012
+      }
+    ]
+  },
+  {
+    "from": 2019,
+    "to": 2040,
+    "unit": "u14a",
+    "words": [
+      {
+        "text": "de",
+        "at": 2019
+      },
+      {
+        "text": "Guille",
+        "at": 2024
+      },
+      {
+        "text": "Collado",
+        "at": 2031
+      }
+    ]
+  },
+  {
+    "from": 2040,
+    "to": 2068,
+    "unit": "u14a",
+    "words": [
+      {
+        "text": "para",
+        "at": 2040
+      },
+      {
+        "text": "que",
+        "at": 2050
+      },
+      {
+        "text": "analizara",
+        "at": 2055
+      }
+    ]
+  },
+  {
+    "from": 2068,
+    "to": 2126,
+    "unit": "u14a",
+    "words": [
+      {
+        "text": "exactamente",
+        "at": 2068
+      },
+      {
+        "text": "cuándo",
+        "at": 2074
+      },
+      {
+        "text": "y",
+        "at": 2111
+      },
+      {
+        "text": "cómo",
+        "at": 2117
+      }
+    ]
+  },
+  {
+    "from": 2126,
+    "to": 2162,
+    "unit": "u14a",
+    "words": [
+      {
+        "text": "él",
+        "at": 2126
+      },
+      {
+        "text": "ponía",
+        "at": 2134
+      },
+      {
+        "text": "las",
+        "at": 2143
+      },
+      {
+        "text": "cosas.",
+        "at": 2149
+      }
+    ]
+  },
+  {
+    "from": 2171,
+    "to": 2193,
+    "unit": "u14b",
+    "words": [
+      {
+        "text": "Básicamente,",
+        "at": 2171
+      }
+    ]
+  },
+  {
+    "from": 2201,
+    "to": 2218,
+    "unit": "u14b",
+    "words": [
+      {
+        "text": "le",
+        "at": 2201
+      },
+      {
+        "text": "enseñé",
+        "at": 2207
+      }
+    ]
+  },
+  {
+    "from": 2218,
+    "to": 2266,
+    "unit": "u14b",
+    "words": [
+      {
+        "text": "a",
+        "at": 2218
+      },
+      {
+        "text": "dirigir",
+        "at": 2223
+      },
+      {
+        "text": "el",
+        "at": 2234
+      },
+      {
+        "text": "vídeo.",
+        "at": 2238
+      }
+    ]
+  },
+  {
+    "from": 2280,
+    "to": 2298,
+    "unit": "u15_16",
+    "words": [
+      {
+        "text": "Y",
+        "at": 2280
+      },
+      {
+        "text": "¡boom!",
+        "at": 2285
+      }
+    ]
+  },
+  {
+    "from": 2298,
+    "to": 2324,
+    "unit": "u15_16",
+    "words": [
+      {
+        "text": "Todo",
+        "at": 2298
+      },
+      {
+        "text": "esto",
+        "at": 2313
+      }
+    ]
+  },
+  {
+    "from": 2324,
+    "to": 2351,
+    "unit": "u15_16",
+    "words": [
+      {
+        "text": "lo",
+        "at": 2324
+      },
+      {
+        "text": "paqueticé",
+        "at": 2328
+      }
+    ]
+  },
+  {
+    "from": 2351,
+    "to": 2391,
+    "unit": "u15_16",
+    "words": [
+      {
+        "text": "en",
+        "at": 2351
+      },
+      {
+        "text": "una",
+        "at": 2358
+      },
+      {
+        "text": "skill",
+        "at": 2364
+      },
+      {
+        "text": "de",
+        "at": 2374
+      },
+      {
+        "text": "Claude.",
+        "at": 2379
+      }
+    ]
+  },
+  {
+    "from": 2404,
+    "to": 2434,
+    "unit": "u17a",
+    "words": [
+      {
+        "text": "simplemente",
+        "at": 2404
+      },
+      {
+        "text": "colgándole",
+        "at": 2419
+      }
+    ]
+  },
+  {
+    "from": 2434,
+    "to": 2470,
+    "unit": "u17a",
+    "words": [
+      {
+        "text": "mis",
+        "at": 2434
+      },
+      {
+        "text": "cuatro",
+        "at": 2441
+      },
+      {
+        "text": "brutos",
+        "at": 2453
+      }
+    ]
+  },
+  {
+    "from": 2481,
+    "to": 2505,
+    "unit": "u17b",
+    "words": [
+      {
+        "text": "él",
+        "at": 2481
+      },
+      {
+        "text": "ya",
+        "at": 2488
+      },
+      {
+        "text": "es",
+        "at": 2494
+      },
+      {
+        "text": "capaz",
+        "at": 2497
+      }
+    ]
+  },
+  {
+    "from": 2505,
+    "to": 2542,
+    "unit": "u17b",
+    "words": [
+      {
+        "text": "de",
+        "at": 2505
+      },
+      {
+        "text": "sacármelo",
+        "at": 2511
+      },
+      {
+        "text": "todo.",
+        "at": 2527
+      }
+    ]
+  },
+  {
+    "from": 2552,
+    "to": 2587,
+    "unit": "u18",
+    "words": [
+      {
+        "text": "en",
+        "at": 2552
+      },
+      {
+        "text": "cuestión",
+        "at": 2556
+      },
+      {
+        "text": "de",
+        "at": 2567
+      },
+      {
+        "text": "minutos.",
+        "at": 2573
+      }
+    ]
+  },
+  {
+    "from": 2608,
+    "to": 2646,
+    "unit": "u19_20",
+    "words": [
+      {
+        "text": "Así",
+        "at": 2608
+      },
+      {
+        "text": "que",
+        "at": 2612
+      },
+      {
+        "text": "si",
+        "at": 2617
+      },
+      {
+        "text": "comentas",
+        "at": 2620
+      },
+      {
+        "text": "skill,",
+        "at": 2630
+      }
+    ]
+  },
+  {
+    "from": 2646,
+    "to": 2668,
+    "unit": "u19_20",
+    "words": [
+      {
+        "text": "te",
+        "at": 2646
+      },
+      {
+        "text": "mando",
+        "at": 2651
+      },
+      {
+        "text": "la",
+        "at": 2657
+      },
+      {
+        "text": "skill",
+        "at": 2662
+      }
+    ]
+  },
+  {
+    "from": 2668,
+    "to": 2687,
+    "unit": "u19_20",
+    "words": [
+      {
+        "text": "y",
+        "at": 2668
+      },
+      {
+        "text": "te",
+        "at": 2674
+      },
+      {
+        "text": "enseño",
+        "at": 2678
+      }
+    ]
+  },
+  {
+    "from": 2687,
+    "to": 2717,
+    "unit": "u19_20",
+    "words": [
+      {
+        "text": "cómo",
+        "at": 2687
+      },
+      {
+        "text": "instalarla,",
+        "at": 2698
+      }
+    ]
+  },
+  {
+    "from": 2717,
+    "to": 2743,
+    "unit": "u19_20",
+    "words": [
+      {
+        "text": "porque",
+        "at": 2717
+      },
+      {
+        "text": "sí.",
+        "at": 2732
+      }
+    ]
+  }
+]

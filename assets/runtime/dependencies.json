@@ -1,0 +1,11 @@
+{
+  "tested_project_dependencies": {
+    "@remotion/renderer": "4.0.441",
+    "react": "19.2.4",
+    "react-dom": "19.2.4",
+    "remotion": "4.0.441",
+    "@types/react": "19.2.14",
+    "typescript": "6.0.2"
+  },
+  "note": "Install in target Remotion project; this file does not install packages."
+}

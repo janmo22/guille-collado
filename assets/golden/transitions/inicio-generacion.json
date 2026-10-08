@@ -1,0 +1,45 @@
+{
+  "params": {
+    "model": "seedance_2_0_mini",
+    "duration": 4,
+    "resolution": "720p",
+    "aspect_ratio": "9:16",
+    "generate_audio": false,
+    "medias": [
+      {
+        "role": "start_image",
+        "value": "d348b6e7-8b2e-45fc-9ddc-e1a8fc7427f2"
+      },
+      {
+        "role": "end_image",
+        "value": "7c65e352-f2e9-4b3c-b9e3-09a20e014e54"
+      }
+    ],
+    "prompt": "Create ONE short, completely smooth editorial camera bridge between these EXACT screen frames. Start on the first frame without any jump. End on the second frame with the man's exact final pose, hands and facial expression. The same man, black shirt, beige shorts, meeting room. The camera makes one compact descending rightward arc around the near wooden tabletop edge; the edge briefly fills the whole lens as a natural occlusion, then reveals the final desk view. Do not tour the room, do not stop in an intermediate shot, do not show a duplicate man. The man should not walk, teleport, dissolve or morph to another pose: the change is hidden by the tabletop occlusion. Smooth coherent acceleration and ease out, continuous physical parallax, controlled natural motion blur. Text already present is part of the screen composition: initial text leaves view with the outgoing shot; final text arrives exactly with the end image, no extra labels or invented letters. No crossfade, no stutter, no camera shake, no object warping. Begin movement immediately, no hold. This four-second source will be compressed into a 0.73-second transition."
+  },
+  "job": {
+    "results": [
+      {
+        "id": "c2f4020a-e660-42e6-9954-c298d78050d2",
+        "type": "video",
+        "status": "completed",
+        "model": "seedance_2_0_mini",
+        "params": {
+          "prompt": "Create ONE short, completely smooth editorial camera bridge between these EXACT screen frames. Start on the first frame without any jump. End on the second frame with the man's exact final pose, hands and facial expression. The same man, black shirt, beige shorts, meeting room. The camera makes one compact descending rightward arc around the near wooden tabletop edge; the edge briefly fills the whole lens as a natural occlusion, then reveals the final desk view. Do not tour the room, do not stop in an intermediate shot, do not show a duplicate man. The man should not walk, teleport, dissolve or morph to another pose: the change is hidden by the tabletop occlusion. Smooth coherent acceleration and ease out, continuous physical parallax, controlled natural motion blur. Text already present is part of the screen composition: initial text leaves view with the outgoing shot; final text arrives exactly with the end image, no extra labels or invented letters. No crossfade, no stutter, no camera shake, no object warping. Begin movement immediately, no hold. This four-second source will be compressed into a 0.73-second transition.",
+          "aspect_ratio": "9:16",
+          "duration": 4,
+          "reference_images": [
+            "d348b6e7-8b2e-45fc-9ddc-e1a8fc7427f2",
+            "7c65e352-f2e9-4b3c-b9e3-09a20e014e54"
+          ],
+          "resolution": "720p",
+          "generate_audio": false
+        }
+      }
+    ]
+  },
+  "estimated_credits": 4,
+  "conservative_total": 73,
+  "selection": "used in v14, frames [90,112), exact final-composite endpoints",
+  "cost_basis": "live preflight estimate: 4 credits; cumulative conservative ledger 73/200"
+}

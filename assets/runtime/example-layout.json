@@ -1,0 +1,50 @@
+{
+  "fps": 30,
+  "blocks": [
+    {
+      "id": "cta-demo",
+      "from": 0,
+      "to": 90,
+      "warp": [
+        540,
+        450,
+        10,
+        0.025
+      ],
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "si",
+              "at": 0
+            },
+            {
+              "text": "comentas",
+              "at": 6
+            }
+          ],
+          "x": 175,
+          "y": 205,
+          "width": 730,
+          "height": 92,
+          "role": "script",
+          "layer": "front"
+        },
+        {
+          "words": [
+            {
+              "text": "SKILL",
+              "at": 12
+            }
+          ],
+          "x": 122,
+          "y": 306,
+          "width": 836,
+          "height": 333,
+          "role": "yellow",
+          "layer": "back"
+        }
+      ]
+    }
+  ]
+}

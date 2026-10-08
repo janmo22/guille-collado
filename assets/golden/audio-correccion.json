@@ -1,0 +1,24 @@
+{
+  "source": "toma-D-h264.mp4",
+  "source_word": [
+    222.78,
+    223.45
+  ],
+  "final_onset": 66.75,
+  "candidate_duration": 0.5833541666666666,
+  "atempo_pitch_preserved": 1.16,
+  "gain": 1.6011871080135716,
+  "dereverb_model": "UVR-DeEcho-DeReverb",
+  "dry_blend": 0.88,
+  "alignment_samples": 0,
+  "word_replace_window": [
+    66.65,
+    67.3375
+  ],
+  "master_local_window": [
+    66.55,
+    67.58
+  ],
+  "pcm_unchanged_outside_patch": true,
+  "other_voice_music_sfx_timing": "unchanged"
+}

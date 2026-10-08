@@ -1,0 +1,46 @@
+{
+  "params": {
+    "model": "seedance_2_0_mini",
+    "duration": 4,
+    "resolution": "720p",
+    "aspect_ratio": "9:16",
+    "generate_audio": false,
+    "medias": [
+      {
+        "role": "start_image",
+        "value": "e3d92671-3ed3-4720-ac17-09836818c8a3"
+      },
+      {
+        "role": "end_image",
+        "value": "fa464771-3380-4d2a-8bcd-2e3b6553b53b"
+      }
+    ],
+    "prompt": "One precise continuous camera transition. Start exactly on the supplied four-video grid on cream. Camera accelerates diagonally into the TOP LEFT Frontal video card; the other three cards slide outside the field of view through real perspective parallax. Fly through this top-left card into the real room, briefly sweep across the white table, then smoothly settle into EXACT supplied end image of the same man standing centered by the windows. Preserve the man's identity, clothing, anatomy and room. The grid is a flat editorial board at the start, no new graphics. Existing captions immediately leave the field of view during the camera push. No morphing between people, no crossfade, no new text, no explosions, no particles. Clean restrained fast editorial camera move with natural motion blur only during travel, crisp start and finish. Start movement immediately, no waiting, no freeze hold."
+  },
+  "job": {
+    "results": [
+      {
+        "id": "0d952de7-010d-4849-b67f-7081a2cfbee5",
+        "type": "video",
+        "status": "pending",
+        "model": "seedance_2_0_mini",
+        "params": {
+          "prompt": "One precise continuous camera transition. Start exactly on the supplied four-video grid on cream. Camera accelerates diagonally into the TOP LEFT Frontal video card; the other three cards slide outside the field of view through real perspective parallax. Fly through this top-left card into the real room, briefly sweep across the white table, then smoothly settle into EXACT supplied end image of the same man standing centered by the windows. Preserve the man's identity, clothing, anatomy and room. The grid is a flat editorial board at the start, no new graphics. Existing captions immediately leave the field of view during the camera push. No morphing between people, no crossfade, no new text, no explosions, no particles. Clean restrained fast editorial camera move with natural motion blur only during travel, crisp start and finish. Start movement immediately, no waiting, no freeze hold.",
+          "aspect_ratio": "9:16",
+          "duration": 4,
+          "reference_images": [
+            "e3d92671-3ed3-4720-ac17-09836818c8a3",
+            "fa464771-3380-4d2a-8bcd-2e3b6553b53b"
+          ],
+          "resolution": "720p",
+          "generate_audio": false
+        }
+      }
+    ]
+  },
+  "credits": 4,
+  "conservative_total": 69,
+  "status": "completed",
+  "selected": true,
+  "integration": "16 frames, salida desde cuadrícula compuesta, llegada a plano frontal, voz entrante antes del final"
+}

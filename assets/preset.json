@@ -1,0 +1,123 @@
+{
+  "id": "guille-collado-jan-aprobado-2026-09-21",
+  "version": "1.0.1",
+  "canvas": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "approved_basis": "Día1 v13, con dos correcciones solicitadas en v14: inicio y Básicamente",
+  "typography": {
+    "fonts": {
+      "keyword": "Anton-Regular.ttf",
+      "script": "SloopScriptOne.ttf",
+      "subtitle": "Toledo-Serial-BoldItalic.ttf"
+    },
+    "materials": {
+      "yellow": {
+        "fill": "#FBDD48",
+        "nearBlur": 4.8,
+        "nearOpacity": 0.92,
+        "farBlur": 19,
+        "farOpacity": 0.54,
+        "shadowBlur": 11,
+        "shadowOpacity": 0.23,
+        "shadowY": 5
+      },
+      "white": {
+        "fill": "#FFFFFC",
+        "nearBlur": 3.8,
+        "nearOpacity": 0.9,
+        "farBlur": 9,
+        "farOpacity": 0.48,
+        "shadowBlur": 10,
+        "shadowOpacity": 0.2,
+        "shadowY": 4
+      }
+    },
+    "script_stroke_ratio": 0.04,
+    "script_stroke_max_px": 5.2,
+    "subtitle": {
+      "size": 44,
+      "color": "#F8D850",
+      "stroke_px": 3.5,
+      "stroke_color": "#17130d",
+      "shadow": "1px 5px 0px #100b06, 2px 7px 3px #000c, 0px 2px 9px #0008",
+      "left": 95,
+      "right": 95,
+      "y_person": 1035,
+      "y_resource": 1440,
+      "line_height": 1.08
+    },
+    "default_layer": "back",
+    "exceptions": [
+      "si-o-si:front",
+      "cta_supports:front",
+      "subtitles:front"
+    ],
+    "cta": "persistent keyword with supporting text below"
+  },
+  "lens": {
+    "center": [
+      0.5,
+      0.49
+    ],
+    "hero_radial": 0.16,
+    "hero_zoom": 1.025,
+    "screen_radial": 0.105,
+    "edge_clear_fraction": 0.54,
+    "edge_power": 1.65,
+    "blur_sigma_rest": 7,
+    "blur_sigma_enter": 13,
+    "edge_alpha_rest": 0.84,
+    "edge_alpha_enter": 0.96
+  },
+  "camera": {
+    "origin": [
+      0.5,
+      0.46
+    ],
+    "push_in": [
+      1.012,
+      1.067
+    ],
+    "easing": [
+      0.22,
+      0.8,
+      0.2,
+      1
+    ]
+  },
+  "cards": {
+    "background": "#eee9df",
+    "border": "#faf6ec",
+    "radius_range": [
+      38,
+      55
+    ],
+    "perspective": 2000,
+    "rotate_y_enter": -5,
+    "rotate_y_rest": -1.5,
+    "rotate_x": 2
+  },
+  "audio": {
+    "song": "Without Me instrumental",
+    "file": "music/without-me-inst.flac",
+    "continuous": true,
+    "sfx_at_zero": false,
+    "lufs_target": -14,
+    "pre_aac_tp": -1.5,
+    "delivered_tp_max": -1,
+    "clean_tail_sec": 0.9,
+    "example_welcome_sec": 6.366666666666666,
+    "example_source_beat_sec": 9.297625,
+    "example_offset_sec": 2.9309583333333338
+  },
+  "generation": {
+    "budget": "per-task authorization; no default spend",
+    "historical_model": "seedance_2_0_mini",
+    "historical_cost": 4,
+    "verify_current_cost": true
+  },
+  "note": "Values at1080p; adapt to new footage and actual narration timings."
+}

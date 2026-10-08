@@ -1,0 +1,39 @@
+{
+  "replace_frames": [
+    90,
+    112
+  ],
+  "previous_real_frame": 89,
+  "next_real_frame": 112,
+  "duration_frames": 22,
+  "generated_source_frames": 97,
+  "sampled_positions": [
+    0.0,
+    1.8464635332602217,
+    4.22081009886683,
+    7.073886343971438,
+    10.386322876979849,
+    14.875271903324265,
+    20.647681946991003,
+    27.411477442151856,
+    34.874582822978645,
+    42.74492252364314,
+    50.73042097831717,
+    58.5390026211725,
+    65.87859188638096,
+    72.45711320811435,
+    77.98249102054444,
+    82.16264975784307,
+    85.31921354822731,
+    88.24186937367804,
+    90.85640413163418,
+    93.0776896220422,
+    94.82059764484865,
+    96.0
+  ],
+  "finished_composite_endpoints": true,
+  "extra_lens_applied": false,
+  "timeline_shift": 0,
+  "rgb_conversion": "full RGB -> limited YUV BT709; explicit matrix and tags",
+  "final_endpoints": "native YUV from approved base; no RGB roundtrip"
+}

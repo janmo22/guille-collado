@@ -1,0 +1,7 @@
+numpy
+scipy
+opencv-python
+Pillow
+fonttools
+uharfbuzz
+soundfile
